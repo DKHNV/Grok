@@ -41,6 +41,7 @@ hades-lv.api.gcp.grok-sandbox.com
 hades-mh.api.gcp.grok-sandbox.com
 hades-mini.api.gcp.grok-sandbox.com
 hades-nevada.api.gcp.grok-sandbox.com
+hades-odyssey.api.gcp.grok-sandbox.com
 hades-ohio.api.gcp.grok-sandbox.com
 hades-psafronov.api.gcp.grok-sandbox.com
 hades-rl.api.gcp.grok-sandbox.com
@@ -62,6 +63,7 @@ mh.hades-api.grok-sandbox.com
 mini.hades-api.grok-sandbox.com
 nevada.hades-api.grok-sandbox.com
 nxat9edg.email.grok.com
+odyssey.hades-api.grok-sandbox.com
 ohio.hades-api.grok-sandbox.com
 psafronov.hades-api.grok-sandbox.com
 rl.hades-api.grok-sandbox.com
