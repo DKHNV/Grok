@@ -24,20 +24,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "accounts.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -65,20 +73,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 421,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "api.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -106,20 +122,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "app-media.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -147,20 +171,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 200,
+          "ip": "104.21.37.78",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "artifacts.grokusercontent.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.21.37.78",
         "172.67.205.229"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -188,19 +220,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 200,
+          "ip": "34.13.75.26",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "asia-south1-livekit.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.13.75.26"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -228,20 +268,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 404,
+          "ip": "104.18.28.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "assets.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.28.234",
         "104.18.29.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -269,20 +317,121 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 404,
+          "ip": "104.21.37.78",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "assets.grokusercontent.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.21.37.78",
         "172.67.205.229"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "bskarabahaty.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.89.17.100",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "bskarabahaty.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.89.17.100",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.89.17.100"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "c.email.api.x.ai": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "104.18.18.80",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 404,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "c.email.api.x.ai",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.18.80",
+        "104.18.19.80"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -310,20 +459,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 404,
+          "ip": "104.18.28.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "cdn.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.28.234",
         "104.18.29.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -351,20 +508,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 404,
+          "ip": "104.18.28.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "cli-chat-proxy.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.28.234",
         "104.18.29.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -392,20 +557,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 404,
+          "ip": "104.18.28.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "click.email.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.28.234",
         "104.18.29.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -433,20 +606,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 404,
+          "ip": "104.18.28.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "code.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.28.234",
         "104.18.29.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -474,20 +655,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "console.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -515,20 +704,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "data.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -556,20 +753,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "deferred-chat.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -597,22 +802,82 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 308,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "docs.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
+    },
+    "dpfeifer.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.13.8.230",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "dpfeifer.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.13.8.230",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.13.8.230"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
     },
     "files-cdn.x.ai": {
       "attempts": [
@@ -638,20 +903,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 404,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "files-cdn.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -664,9 +937,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -677,15 +950,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "francischong.hades-api.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -716,9 +997,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -729,15 +1010,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "fvugwdk3.email.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -768,9 +1057,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -781,15 +1070,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "gix.hades-api.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -820,9 +1117,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -833,15 +1130,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "grok-chat.hades-api.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -872,9 +1177,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -885,15 +1190,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "grok-code-wild.hades-api.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -924,9 +1237,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -937,15 +1250,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "grok-code-xai.hades-api.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -961,6 +1282,110 @@
       },
       "last_ipv4": [
         "34.48.102.92"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "grok-computer-wild.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.48.178.33",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "grok-computer-wild.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.48.178.33",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.48.178.33"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "grok-computer-xai.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.86.77.84",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "grok-computer-xai.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.86.77.84",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.86.77.84"
       ],
       "last_result": "FAILURE",
       "last_success": null,
@@ -991,28 +1416,36 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 200,
+          "ip": "104.18.28.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.28.234",
         "104.18.29.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
-    "hades-grok-chat.api.gcp.grok-sandbox.com": {
+    "hades-bskarabahaty.api.gcp.grok-sandbox.com": {
       "attempts": [
         {
           "detail": "timed out",
-          "ip": "35.245.167.101",
+          "ip": "34.89.17.100",
           "port": 443,
           "status": "TIMEOUT"
         }
@@ -1020,11 +1453,11 @@
       "consecutive_failures": 1,
       "ever_alive": false,
       "failure_observations": 1,
-      "failure_since": "2026-08-21T10:45:25Z",
-      "first_seen": "2026-08-21T10:45:25Z",
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
       "history": [
         {
-          "at": "2026-08-21T10:45:25Z",
+          "at": "2026-08-21T13:09:03Z",
           "result": "FAILURE",
           "statuses": [
             "TIMEOUT"
@@ -1035,10 +1468,226 @@
       "history_failures": 1,
       "history_samples": 1,
       "history_successes": 0,
-      "hostname": "hades-grok-chat.api.gcp.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "hostname": "hades-bskarabahaty.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.89.17.100",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.89.17.100"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-dpfeifer.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.13.8.230",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-dpfeifer.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.13.8.230",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.13.8.230"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-francischong.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.199.56.148",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-francischong.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.199.56.148",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.199.56.148"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-gix.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.23.245.206",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-gix.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.23.245.206",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.23.245.206"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-grok-chat.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.245.167.101",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 2,
+      "ever_alive": false,
+      "failure_observations": 2,
+      "failure_since": "2026-08-21T10:45:25Z",
+      "first_seen": "2026-08-21T10:45:25Z",
+      "history": [
+        {
+          "at": "2026-08-21T10:45:25Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 2,
+      "history_samples": 2,
+      "history_successes": 0,
+      "hostname": "hades-grok-chat.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1069,9 +1718,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -1082,15 +1731,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "hades-grok-code-wild.api.gcp.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1121,9 +1778,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -1134,15 +1791,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "hades-grok-code-xai.api.gcp.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1164,11 +1829,11 @@
       "stability_score": 0.0,
       "status": "unknown"
     },
-    "hades-ikruk.api.gcp.grok-sandbox.com": {
+    "hades-grok-computer-wild.api.gcp.grok-sandbox.com": {
       "attempts": [
         {
           "detail": "timed out",
-          "ip": "35.246.102.53",
+          "ip": "34.48.178.33",
           "port": 443,
           "status": "TIMEOUT"
         }
@@ -1176,11 +1841,11 @@
       "consecutive_failures": 1,
       "ever_alive": false,
       "failure_observations": 1,
-      "failure_since": "2026-08-21T10:45:25Z",
-      "first_seen": "2026-08-21T10:45:25Z",
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
       "history": [
         {
-          "at": "2026-08-21T10:45:25Z",
+          "at": "2026-08-21T13:09:03Z",
           "result": "FAILURE",
           "statuses": [
             "TIMEOUT"
@@ -1191,10 +1856,122 @@
       "history_failures": 1,
       "history_samples": 1,
       "history_successes": 0,
-      "hostname": "hades-ikruk.api.gcp.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "hostname": "hades-grok-computer-wild.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.48.178.33",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.48.178.33"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-grok-computer-xai.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.86.77.84",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-grok-computer-xai.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.86.77.84",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.86.77.84"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-ikruk.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.246.102.53",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 2,
+      "ever_alive": false,
+      "failure_observations": 2,
+      "failure_since": "2026-08-21T10:45:25Z",
+      "first_seen": "2026-08-21T10:45:25Z",
+      "history": [
+        {
+          "at": "2026-08-21T10:45:25Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 2,
+      "history_samples": 2,
+      "history_successes": 0,
+      "hostname": "hades-ikruk.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1216,11 +1993,11 @@
       "stability_score": 0.0,
       "status": "unknown"
     },
-    "hades-st.api.gcp.grok-sandbox.com": {
+    "hades-iowa.api.gcp.grok-sandbox.com": {
       "attempts": [
         {
           "detail": "timed out",
-          "ip": "34.145.172.50",
+          "ip": "34.67.185.15",
           "port": 443,
           "status": "TIMEOUT"
         }
@@ -1228,11 +2005,11 @@
       "consecutive_failures": 1,
       "ever_alive": false,
       "failure_observations": 1,
-      "failure_since": "2026-08-21T10:45:25Z",
-      "first_seen": "2026-08-21T10:45:25Z",
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
       "history": [
         {
-          "at": "2026-08-21T10:45:25Z",
+          "at": "2026-08-21T13:09:03Z",
           "result": "FAILURE",
           "statuses": [
             "TIMEOUT"
@@ -1243,10 +2020,486 @@
       "history_failures": 1,
       "history_samples": 1,
       "history_successes": 0,
-      "hostname": "hades-st.api.gcp.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "hostname": "hades-iowa.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.67.185.15",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.67.185.15"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-lv.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.16.250.174",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-lv.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.16.250.174",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.16.250.174"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-mh.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.227.115.226",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-mh.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.227.115.226",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.227.115.226"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-mini.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "104.196.162.208",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-mini.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "104.196.162.208",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "104.196.162.208"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-nevada.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.125.95.100",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-nevada.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.125.95.100",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.125.95.100"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-ohio.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.162.150.75",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-ohio.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.162.150.75",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.162.150.75"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-psafronov.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.105.231.252",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-psafronov.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.105.231.252",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.105.231.252"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-rl.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.21.58.27",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-rl.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.21.58.27",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.21.58.27"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-rl2.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.138.9.57",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-rl2.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.138.9.57",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.138.9.57"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-st.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.145.172.50",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 2,
+      "ever_alive": false,
+      "failure_observations": 2,
+      "failure_since": "2026-08-21T10:45:25Z",
+      "first_seen": "2026-08-21T10:45:25Z",
+      "history": [
+        {
+          "at": "2026-08-21T10:45:25Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 2,
+      "history_samples": 2,
+      "history_successes": 0,
+      "hostname": "hades-st.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1277,9 +2530,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -1290,15 +2543,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "hades-staging.api.gcp.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1320,11 +2581,11 @@
       "stability_score": 0.0,
       "status": "unknown"
     },
-    "ikruk.hades-api.grok-sandbox.com": {
+    "hades-tool-calling.api.gcp.grok-sandbox.com": {
       "attempts": [
         {
           "detail": "timed out",
-          "ip": "35.246.102.53",
+          "ip": "35.245.67.216",
           "port": 443,
           "status": "TIMEOUT"
         }
@@ -1332,11 +2593,11 @@
       "consecutive_failures": 1,
       "ever_alive": false,
       "failure_observations": 1,
-      "failure_since": "2026-08-21T10:45:25Z",
-      "first_seen": "2026-08-21T10:45:25Z",
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
       "history": [
         {
-          "at": "2026-08-21T10:45:25Z",
+          "at": "2026-08-21T13:09:03Z",
           "result": "FAILURE",
           "statuses": [
             "TIMEOUT"
@@ -1347,10 +2608,122 @@
       "history_failures": 1,
       "history_samples": 1,
       "history_successes": 0,
-      "hostname": "ikruk.hades-api.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "hostname": "hades-tool-calling.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "35.245.67.216",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "35.245.67.216"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "hades-vbrowser.api.gcp.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.86.225.51",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "hades-vbrowser.api.gcp.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.86.225.51",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.86.225.51"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "ikruk.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "35.246.102.53",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 2,
+      "ever_alive": false,
+      "failure_observations": 2,
+      "failure_since": "2026-08-21T10:45:25Z",
+      "first_seen": "2026-08-21T10:45:25Z",
+      "history": [
+        {
+          "at": "2026-08-21T10:45:25Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 2,
+      "history_samples": 2,
+      "history_successes": 0,
+      "hostname": "ikruk.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1396,20 +2769,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "images-public.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1437,22 +2818,82 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "imgen.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
+    },
+    "iowa.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.67.185.15",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "iowa.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.67.185.15",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.67.185.15"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
     },
     "jf.x.ai": {
       "attempts": [
@@ -1478,20 +2919,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 404,
+          "ip": "52.9.199.118",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "jf.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "52.9.199.118",
         "54.219.222.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1519,19 +2968,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 200,
+          "ip": "34.110.209.31",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "livekit-enterprise.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.110.209.31"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1559,21 +3016,81 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 200,
+          "ip": "35.227.192.44",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "livekit.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "35.227.192.44"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
+    },
+    "lv.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.16.250.174",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "lv.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.16.250.174",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.16.250.174"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
     },
     "mcp-sandbox.grokusercontent.com": {
       "attempts": [
@@ -1599,20 +3116,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 200,
+          "ip": "104.21.37.78",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "mcp-sandbox.grokusercontent.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.21.37.78",
         "172.67.205.229"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1625,9 +3150,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -1638,15 +3163,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "mh.hades-api.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1668,11 +3201,11 @@
       "stability_score": 0.0,
       "status": "unknown"
     },
-    "nxat9edg.email.grok.com": {
+    "mini.hades-api.grok-sandbox.com": {
       "attempts": [
         {
           "detail": "timed out",
-          "ip": "137.22.224.203",
+          "ip": "104.196.162.208",
           "port": 443,
           "status": "TIMEOUT"
         }
@@ -1680,11 +3213,11 @@
       "consecutive_failures": 1,
       "ever_alive": false,
       "failure_observations": 1,
-      "failure_since": "2026-08-21T10:45:25Z",
-      "first_seen": "2026-08-21T10:45:25Z",
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
       "history": [
         {
-          "at": "2026-08-21T10:45:25Z",
+          "at": "2026-08-21T13:09:03Z",
           "result": "FAILURE",
           "statuses": [
             "TIMEOUT"
@@ -1695,10 +3228,122 @@
       "history_failures": 1,
       "history_samples": 1,
       "history_successes": 0,
-      "hostname": "nxat9edg.email.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "hostname": "mini.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "104.196.162.208",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "104.196.162.208"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "nevada.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.125.95.100",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "nevada.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.125.95.100",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.125.95.100"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "nxat9edg.email.grok.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "137.22.224.203",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 2,
+      "ever_alive": false,
+      "failure_observations": 2,
+      "failure_since": "2026-08-21T10:45:25Z",
+      "first_seen": "2026-08-21T10:45:25Z",
+      "history": [
+        {
+          "at": "2026-08-21T10:45:25Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 2,
+      "history_samples": 2,
+      "history_successes": 0,
+      "hostname": "nxat9edg.email.grok.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1714,6 +3359,214 @@
       },
       "last_ipv4": [
         "137.22.224.203"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "ohio.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.162.150.75",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "ohio.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.162.150.75",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.162.150.75"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "psafronov.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.105.231.252",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "psafronov.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.105.231.252",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.105.231.252"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "rl.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.21.58.27",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "rl.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.21.58.27",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.21.58.27"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "rl2.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.138.9.57",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "rl2.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.138.9.57",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.138.9.57"
       ],
       "last_result": "FAILURE",
       "last_success": null,
@@ -1744,19 +3597,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 301,
+          "ip": "23.227.38.74",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "shop.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "23.227.38.74"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1769,9 +3630,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -1782,15 +3643,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "sip.staging.voice.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1821,9 +3690,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -1834,15 +3703,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "sip.voice.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -1888,20 +3765,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "slack.hooks.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1929,20 +3814,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.28.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "ssff.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.28.234",
         "104.18.29.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1970,20 +3863,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 200,
+          "ip": "104.18.35.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "sso-auth.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.35.233",
         "172.64.152.23"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2011,20 +3912,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 404,
+          "ip": "104.18.35.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "sso.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.35.233",
         "172.64.152.23"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2037,9 +3946,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -2050,15 +3959,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "st.hades-api.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -2089,9 +4006,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -2102,15 +4019,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "staging.hades-api.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -2156,20 +4081,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "status.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2182,9 +4115,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -2195,15 +4128,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "tool-calling.hades-api.grok-sandbox.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -2224,6 +4165,47 @@
       "last_success": null,
       "stability_score": 0.0,
       "status": "unknown"
+    },
+    "transcription.grok-v2.x.ai": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "transcription.grok-v2.x.ai",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.18.80",
+        "104.18.19.80"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T13:09:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
     },
     "trust.x.ai": {
       "attempts": [
@@ -2249,20 +4231,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 200,
+          "ip": "104.18.26.175",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "trust.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.26.175",
         "104.18.27.175"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2290,20 +4280,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 302,
+          "ip": "104.18.28.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "try.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.28.234",
         "104.18.29.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2328,9 +4326,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -2341,15 +4339,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "us-east-1-raw.api.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -2409,20 +4415,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 421,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "us-east-1.api.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2450,19 +4464,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 401,
+          "ip": "34.48.4.24",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "us-east-4-raw.api.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.48.4.24"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2475,9 +4497,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -2488,15 +4510,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "us-south-1-pltr.api.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -2527,9 +4557,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "ever_alive": false,
-      "failure_observations": 1,
+      "failure_observations": 2,
       "failure_since": "2026-08-21T10:45:25Z",
       "first_seen": "2026-08-21T10:45:25Z",
       "history": [
@@ -2540,15 +4570,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 1,
-      "history_samples": 1,
+      "history_failures": 2,
+      "history_samples": 2,
       "history_successes": 0,
       "hostname": "us-west-1-raw.api.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": {
-        "at": "2026-08-21T10:45:25Z",
+        "at": "2026-08-21T13:09:03Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -2594,22 +4632,82 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 503,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "us-west-1.api.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
+    },
+    "vbrowser.hades-api.grok-sandbox.com": {
+      "attempts": [
+        {
+          "detail": "timed out",
+          "ip": "34.86.225.51",
+          "port": 443,
+          "status": "TIMEOUT"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T13:09:03Z",
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "vbrowser.hades-api.grok-sandbox.com",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": {
+        "at": "2026-08-21T13:09:03Z",
+        "attempts": [
+          {
+            "detail": "timed out",
+            "ip": "34.86.225.51",
+            "port": 443,
+            "status": "TIMEOUT"
+          }
+        ],
+        "statuses": [
+          "TIMEOUT"
+        ],
+        "type": "TIMEOUT"
+      },
+      "last_ipv4": [
+        "34.86.225.51"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
     },
     "vidgen.x.ai": {
       "attempts": [
@@ -2635,20 +4733,69 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "vidgen.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "webhooks.hooks.x.ai": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "webhooks.hooks.x.ai",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.18.80",
+        "104.18.19.80"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2676,20 +4823,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 301,
+          "ip": "104.18.28.234",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "www.grok.com",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.28.234",
         "104.18.29.234"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2717,20 +4872,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 301,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "www.x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2758,24 +4921,32 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T13:09:03Z",
+          "http_status": 403,
+          "ip": "104.18.18.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "x.ai",
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.18.80",
         "104.18.19.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "stability_score": 100.0,
       "status": "alive"
     }
   },
-  "updated_at": "2026-08-21T10:45:25Z",
+  "updated_at": "2026-08-21T13:09:03Z",
   "version": 3
 }

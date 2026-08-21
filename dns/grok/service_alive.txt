@@ -5,6 +5,7 @@ artifacts.grokusercontent.com
 asia-south1-livekit.grok.com
 assets.grok.com
 assets.grokusercontent.com
+c.email.api.x.ai
 cdn.grok.com
 cli-chat-proxy.grok.com
 click.email.grok.com
@@ -27,12 +28,14 @@ ssff.grok.com
 sso-auth.x.ai
 sso.x.ai
 status.x.ai
+transcription.grok-v2.x.ai
 trust.x.ai
 try.grok.com
 us-east-1.api.x.ai
 us-east-4-raw.api.x.ai
 us-west-1.api.x.ai
 vidgen.x.ai
+webhooks.hooks.x.ai
 www.grok.com
 www.x.ai
 x.ai

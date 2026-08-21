@@ -11,10 +11,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -52,18 +52,18 @@
     },
     "ap-northeast-1-cm.api.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "ap-northeast-1-cm.api.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -88,18 +88,18 @@
     },
     "api-raw.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "api-raw.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -133,10 +133,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -183,10 +183,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -233,10 +233,10 @@
         "104.21.37.78",
         "172.67.205.229"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -283,10 +283,10 @@
       "ipv4": [
         "34.13.75.26"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -321,18 +321,18 @@
     },
     "asia-south1.livekit.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "asia-south1.livekit.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -366,10 +366,10 @@
         "104.18.28.234",
         "104.18.29.234"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -416,10 +416,10 @@
         "104.21.37.78",
         "172.67.205.229"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -457,18 +457,18 @@
     },
     "atla-cpu01.hades-api.grok-sandbox.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "atla-cpu01.hades-api.grok-sandbox.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -506,6 +506,102 @@
       ],
       "status": "pending"
     },
+    "bskarabahaty.hades-api.grok-sandbox.com": {
+      "canonical_name": "bskarabahaty.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "bskarabahaty.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.89.17.100"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "bskarabahaty.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.89.17.100"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "bskarabahaty.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.89.17.100"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "bskarabahaty.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.89.17.100"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "c.email.api.x.ai": {
+      "canonical_name": "c.email.api.x.ai",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "c.email.api.x.ai",
+      "ipv4": [
+        "104.18.18.80",
+        "104.18.19.80"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "c.email.api.x.ai",
+          "ipv4": [
+            "104.18.18.80",
+            "104.18.19.80"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "c.email.api.x.ai",
+          "ipv4": [
+            "104.18.18.80",
+            "104.18.19.80"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "c.email.api.x.ai",
+          "ipv4": [
+            "104.18.18.80",
+            "104.18.19.80"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "xai-core:x.ai"
+      ],
+      "status": "active"
+    },
     "cdn.grok.com": {
       "canonical_name": "cdn.grok.com",
       "consecutive_negative_checks": 0,
@@ -517,10 +613,10 @@
         "104.18.28.234",
         "104.18.29.234"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -567,10 +663,10 @@
         "104.18.28.234",
         "104.18.29.234"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -606,6 +702,78 @@
       ],
       "status": "active"
     },
+    "click.c.email.api.x.ai": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "click.c.email.api.x.ai",
+      "ipv4": [],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T13:09:03Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "xai-core:x.ai"
+      ],
+      "status": "pending"
+    },
+    "click.email.api.x.ai": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "click.email.api.x.ai",
+      "ipv4": [],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T13:09:03Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "xai-core:x.ai"
+      ],
+      "status": "pending"
+    },
     "click.email.grok.com": {
       "canonical_name": "click.email.grok.com",
       "consecutive_negative_checks": 0,
@@ -617,10 +785,10 @@
         "104.18.28.234",
         "104.18.29.234"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -658,18 +826,18 @@
     },
     "cloud9-cm.api.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "cloud9-cm.api.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -703,10 +871,10 @@
         "104.18.28.234",
         "104.18.29.234"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -753,10 +921,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -803,10 +971,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -854,10 +1022,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -904,10 +1072,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -943,6 +1111,52 @@
       ],
       "status": "active"
     },
+    "dpfeifer.hades-api.grok-sandbox.com": {
+      "canonical_name": "dpfeifer.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "dpfeifer.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.13.8.230"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "dpfeifer.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.13.8.230"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "dpfeifer.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.13.8.230"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "dpfeifer.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.13.8.230"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "files-cdn.x.ai": {
       "canonical_name": "files-cdn.x.ai",
       "consecutive_negative_checks": 0,
@@ -954,10 +1168,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1003,10 +1217,10 @@
       "ipv4": [
         "35.199.56.148"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1049,10 +1263,10 @@
       "ipv4": [
         "137.22.248.76"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1095,10 +1309,10 @@
       "ipv4": [
         "34.23.245.206"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1133,18 +1347,18 @@
     },
     "grok-api.grok.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:39:08Z",
       "hostname": "grok-api.grok.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -1177,10 +1391,10 @@
       "ipv4": [
         "35.245.167.101"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1223,10 +1437,10 @@
       "ipv4": [
         "8.234.156.60"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1269,10 +1483,10 @@
       "ipv4": [
         "34.48.102.92"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1305,6 +1519,98 @@
       ],
       "status": "active"
     },
+    "grok-computer-wild.hades-api.grok-sandbox.com": {
+      "canonical_name": "grok-computer-wild.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "grok-computer-wild.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.48.178.33"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "grok-computer-wild.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.48.178.33"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "grok-computer-wild.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.48.178.33"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "grok-computer-wild.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.48.178.33"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "grok-computer-xai.hades-api.grok-sandbox.com": {
+      "canonical_name": "grok-computer-xai.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "grok-computer-xai.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.86.77.84"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "grok-computer-xai.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.86.77.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "grok-computer-xai.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.86.77.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "grok-computer-xai.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.86.77.84"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "grok.com": {
       "canonical_name": "grok.com",
       "consecutive_negative_checks": 0,
@@ -1316,10 +1622,10 @@
         "104.18.28.234",
         "104.18.29.234"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1358,18 +1664,18 @@
     },
     "grokusercontent.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "grokusercontent.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -1392,6 +1698,241 @@
       ],
       "status": "pending"
     },
+    "hades-atla-cpu01.api.onprem.grok-sandbox.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-atla-cpu01.api.onprem.grok-sandbox.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T13:09:03Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-atla-cpu01.api.onprem.grok-sandbox.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.96.172.119"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-atla-cpu01.api.onprem.grok-sandbox.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.96.172.119"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-atla-cpu01.api.onprem.grok-sandbox.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.96.172.119"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "pending"
+    },
+    "hades-bskarabahaty.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-bskarabahaty.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-bskarabahaty.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.89.17.100"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-bskarabahaty.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.89.17.100"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-bskarabahaty.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.89.17.100"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-bskarabahaty.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.89.17.100"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-dpfeifer.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-dpfeifer.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-dpfeifer.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.13.8.230"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-dpfeifer.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.13.8.230"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-dpfeifer.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.13.8.230"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-dpfeifer.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.13.8.230"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-francischong.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-francischong.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-francischong.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "35.199.56.148"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-francischong.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "35.199.56.148"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-francischong.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "35.199.56.148"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-francischong.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "35.199.56.148"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-gix.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-gix.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-gix.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.23.245.206"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-gix.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.23.245.206"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-gix.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.23.245.206"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-gix.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.23.245.206"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "hades-grok-chat.api.gcp.grok-sandbox.com": {
       "canonical_name": "hades-grok-chat.api.gcp.grok-sandbox.com",
       "consecutive_negative_checks": 0,
@@ -1402,10 +1943,10 @@
       "ipv4": [
         "35.245.167.101"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1448,10 +1989,10 @@
       "ipv4": [
         "8.234.156.60"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1494,10 +2035,10 @@
       "ipv4": [
         "34.48.102.92"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1520,6 +2061,98 @@
           "canonical_name": "hades-grok-code-xai.api.gcp.grok-sandbox.com",
           "ipv4": [
             "34.48.102.92"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-grok-computer-wild.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-grok-computer-wild.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-grok-computer-wild.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.48.178.33"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-grok-computer-wild.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.48.178.33"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-grok-computer-wild.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.48.178.33"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-grok-computer-wild.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.48.178.33"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-grok-computer-xai.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-grok-computer-xai.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-grok-computer-xai.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.86.77.84"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-grok-computer-xai.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.86.77.84"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-grok-computer-xai.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.86.77.84"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-grok-computer-xai.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.86.77.84"
           ],
           "status": "OK"
         }
@@ -1540,10 +2173,10 @@
       "ipv4": [
         "35.246.102.53"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1576,20 +2209,112 @@
       ],
       "status": "active"
     },
+    "hades-iowa.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-iowa.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-iowa.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.67.185.15"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-iowa.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.67.185.15"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-iowa.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.67.185.15"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-iowa.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.67.185.15"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-lv.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-lv.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-lv.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.16.250.174"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-lv.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.16.250.174"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-lv.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.16.250.174"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-lv.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.16.250.174"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "hades-memy-09-staging.api.onprem.grok-sandbox.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "hades-memy-09-staging.api.onprem.grok-sandbox.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -1629,18 +2354,18 @@
     },
     "hades-memy-cpu01-arm.api.onprem.grok-sandbox.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "hades-memy-cpu01-arm.api.onprem.grok-sandbox.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -1680,18 +2405,18 @@
     },
     "hades-memy-cpu01-x86.api.onprem.grok-sandbox.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "hades-memy-cpu01-x86.api.onprem.grok-sandbox.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -1729,6 +2454,379 @@
       ],
       "status": "pending"
     },
+    "hades-memy.api.onprem.grok-sandbox.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-memy.api.onprem.grok-sandbox.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T13:09:03Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-memy.api.onprem.grok-sandbox.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.37.4.170"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-memy.api.onprem.grok-sandbox.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.37.4.170"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-memy.api.onprem.grok-sandbox.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.37.4.170"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "pending"
+    },
+    "hades-mh.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-mh.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-mh.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "35.227.115.226"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-mh.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "35.227.115.226"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-mh.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "35.227.115.226"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-mh.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "35.227.115.226"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-mini.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-mini.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-mini.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "104.196.162.208"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-mini.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "104.196.162.208"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-mini.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "104.196.162.208"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-mini.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "104.196.162.208"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-nevada.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-nevada.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-nevada.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.125.95.100"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-nevada.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.125.95.100"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-nevada.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.125.95.100"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-nevada.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.125.95.100"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-ohio.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-ohio.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-ohio.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.162.150.75"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-ohio.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.162.150.75"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-ohio.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.162.150.75"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-ohio.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.162.150.75"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-psafronov.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-psafronov.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-psafronov.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.105.231.252"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-psafronov.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.105.231.252"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-psafronov.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.105.231.252"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-psafronov.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.105.231.252"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-rl.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-rl.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-rl.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.21.58.27"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-rl.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.21.58.27"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-rl.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.21.58.27"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-rl.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.21.58.27"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-rl2.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-rl2.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-rl2.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.138.9.57"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-rl2.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.138.9.57"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-rl2.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.138.9.57"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-rl2.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.138.9.57"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "hades-st.api.gcp.grok-sandbox.com": {
       "canonical_name": "hades-st.api.gcp.grok-sandbox.com",
       "consecutive_negative_checks": 0,
@@ -1739,10 +2837,10 @@
       "ipv4": [
         "34.145.172.50"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1785,10 +2883,10 @@
       "ipv4": [
         "34.150.166.149"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1821,6 +2919,134 @@
       ],
       "status": "active"
     },
+    "hades-tool-calling.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-tool-calling.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-tool-calling.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "35.245.67.216"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-tool-calling.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "35.245.67.216"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-tool-calling.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "35.245.67.216"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-tool-calling.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "35.245.67.216"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-vbrowser.api.gcp.grok-sandbox.com": {
+      "canonical_name": "hades-vbrowser.api.gcp.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-vbrowser.api.gcp.grok-sandbox.com",
+      "ipv4": [
+        "34.86.225.51"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "hades-vbrowser.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.86.225.51"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "hades-vbrowser.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.86.225.51"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "hades-vbrowser.api.gcp.grok-sandbox.com",
+          "ipv4": [
+            "34.86.225.51"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "hades-yihao.api.gcp.grok-sandbox.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "hades-yihao.api.gcp.grok-sandbox.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T13:09:03Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "pending"
+    },
     "ikruk.hades-api.grok-sandbox.com": {
       "canonical_name": "ikruk.hades-api.grok-sandbox.com",
       "consecutive_negative_checks": 0,
@@ -1831,10 +3057,10 @@
       "ipv4": [
         "35.246.102.53"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1878,10 +3104,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1928,10 +3154,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1967,6 +3193,52 @@
       ],
       "status": "active"
     },
+    "iowa.hades-api.grok-sandbox.com": {
+      "canonical_name": "iowa.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "iowa.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.67.185.15"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "iowa.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.67.185.15"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "iowa.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.67.185.15"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "iowa.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.67.185.15"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "jf.x.ai": {
       "canonical_name": "jf-loadbalancer-1946455629.us-west-1.elb.amazonaws.com",
       "consecutive_negative_checks": 0,
@@ -1978,10 +3250,10 @@
         "52.9.199.118",
         "54.219.222.103"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2027,10 +3299,10 @@
       "ipv4": [
         "34.110.209.31"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2073,10 +3345,10 @@
       "ipv4": [
         "35.227.192.44"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2110,20 +3382,66 @@
       ],
       "status": "active"
     },
+    "lv.hades-api.grok-sandbox.com": {
+      "canonical_name": "lv.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "lv.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.16.250.174"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "lv.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.16.250.174"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "lv.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.16.250.174"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "lv.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.16.250.174"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "max-raw.api.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "max-raw.api.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2157,10 +3475,10 @@
         "104.21.37.78",
         "172.67.205.229"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2198,18 +3516,18 @@
     },
     "memy-09-staging.hades-api.grok-sandbox.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "memy-09-staging.hades-api.grok-sandbox.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2249,18 +3567,18 @@
     },
     "memy-cpu01-arm.hades-api.grok-sandbox.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "memy-cpu01-arm.hades-api.grok-sandbox.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2300,18 +3618,18 @@
     },
     "memy-cpu01-x86.hades-api.grok-sandbox.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "memy-cpu01-x86.hades-api.grok-sandbox.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2349,6 +3667,57 @@
       ],
       "status": "pending"
     },
+    "memy.hades-api.grok-sandbox.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "memy.hades-api.grok-sandbox.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T13:09:03Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "memy.hades-api.grok-sandbox.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.37.4.170"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "memy.hades-api.grok-sandbox.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.37.4.170"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "memy.hades-api.grok-sandbox.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.37.4.170"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "pending"
+    },
     "mh.hades-api.grok-sandbox.com": {
       "canonical_name": "mh.hades-api.grok-sandbox.com",
       "consecutive_negative_checks": 0,
@@ -2359,10 +3728,10 @@
       "ipv4": [
         "35.227.115.226"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2395,6 +3764,98 @@
       ],
       "status": "active"
     },
+    "mini.hades-api.grok-sandbox.com": {
+      "canonical_name": "mini.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "mini.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "104.196.162.208"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "mini.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "104.196.162.208"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "mini.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "104.196.162.208"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "mini.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "104.196.162.208"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "nevada.hades-api.grok-sandbox.com": {
+      "canonical_name": "nevada.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "nevada.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.125.95.100"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "nevada.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.125.95.100"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "nevada.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.125.95.100"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "nevada.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.125.95.100"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "nxat9edg.email.grok.com": {
       "canonical_name": "nxat9edg.email.grok.com",
       "consecutive_negative_checks": 0,
@@ -2405,10 +3866,10 @@
       "ipv4": [
         "137.22.224.203"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2441,20 +3902,112 @@
       ],
       "status": "active"
     },
+    "ohio.hades-api.grok-sandbox.com": {
+      "canonical_name": "ohio.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "ohio.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.162.150.75"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "ohio.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.162.150.75"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "ohio.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.162.150.75"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "ohio.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.162.150.75"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "psafronov.hades-api.grok-sandbox.com": {
+      "canonical_name": "psafronov.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "psafronov.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.105.231.252"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "psafronov.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.105.231.252"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "psafronov.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.105.231.252"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "psafronov.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.105.231.252"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "research-models-cm.api.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "research-models-cm.api.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2479,18 +4032,18 @@
     },
     "research-vendors-cm.api.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "research-vendors-cm.api.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2513,6 +4066,98 @@
       ],
       "status": "pending"
     },
+    "rl.hades-api.grok-sandbox.com": {
+      "canonical_name": "rl.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "rl.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.21.58.27"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "rl.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.21.58.27"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "rl.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.21.58.27"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "rl.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.21.58.27"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
+    "rl2.hades-api.grok-sandbox.com": {
+      "canonical_name": "rl2.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "rl2.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.138.9.57"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "rl2.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.138.9.57"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "rl2.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.138.9.57"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "rl2.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.138.9.57"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "shop.x.ai": {
       "canonical_name": "shops.myshopify.com",
       "consecutive_negative_checks": 0,
@@ -2523,10 +4168,10 @@
       "ipv4": [
         "23.227.38.74"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2569,10 +4214,10 @@
       "ipv4": [
         "34.11.90.42"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2615,10 +4260,10 @@
       "ipv4": [
         "8.228.120.166"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2662,10 +4307,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2712,10 +4357,10 @@
         "104.18.28.234",
         "104.18.29.234"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2762,10 +4407,10 @@
         "104.18.35.233",
         "172.64.152.23"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2812,10 +4457,10 @@
         "104.18.35.233",
         "172.64.152.23"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2861,10 +4506,10 @@
       "ipv4": [
         "34.145.172.50"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2899,18 +4544,18 @@
     },
     "staging-cm-api.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "staging-cm-api.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2943,10 +4588,10 @@
       "ipv4": [
         "34.150.166.149"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2990,10 +4635,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3039,10 +4684,10 @@
       "ipv4": [
         "35.245.67.216"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3075,6 +4720,56 @@
       ],
       "status": "active"
     },
+    "transcription.grok-v2.x.ai": {
+      "canonical_name": "transcription.grok-v2.x.ai",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "transcription.grok-v2.x.ai",
+      "ipv4": [
+        "104.18.18.80",
+        "104.18.19.80"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "transcription.grok-v2.x.ai",
+          "ipv4": [
+            "104.18.18.80",
+            "104.18.19.80"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "transcription.grok-v2.x.ai",
+          "ipv4": [
+            "104.18.18.80",
+            "104.18.19.80"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "transcription.grok-v2.x.ai",
+          "ipv4": [
+            "104.18.18.80",
+            "104.18.19.80"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "xai-core:x.ai"
+      ],
+      "status": "active"
+    },
     "trust.x.ai": {
       "canonical_name": "672545c88f205f2660519118.cname.vantatrust.com",
       "consecutive_negative_checks": 0,
@@ -3086,10 +4781,10 @@
         "104.18.26.175",
         "104.18.27.175"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3136,10 +4831,10 @@
         "104.18.28.234",
         "104.18.29.234"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3175,20 +4870,56 @@
       ],
       "status": "active"
     },
-    "typeahead.grok.com": {
+    "typeahead.grok-v2.x.ai": {
       "canonical_name": null,
       "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "typeahead.grok-v2.x.ai",
+      "ipv4": [],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T13:09:03Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "xai-core:x.ai"
+      ],
+      "status": "pending"
+    },
+    "typeahead.grok.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "typeahead.grok.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -3223,10 +4954,10 @@
         "44.214.176.4",
         "100.55.179.147"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3276,10 +5007,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3317,18 +5048,18 @@
     },
     "us-east-4-cm.api.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "us-east-4-cm.api.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -3353,18 +5084,18 @@
     },
     "us-east-4-comfyui-raw.api.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "us-east-4-comfyui-raw.api.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -3397,10 +5128,10 @@
       "ipv4": [
         "34.48.4.24"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3435,18 +5166,18 @@
     },
     "us-saltlake-2-raw.api.x.ai": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "us-saltlake-2-raw.api.x.ai",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -3479,10 +5210,10 @@
       "ipv4": [
         "199.16.156.221"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3525,10 +5256,10 @@
       "ipv4": [
         "199.16.156.218"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3572,10 +5303,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3611,6 +5342,52 @@
       ],
       "status": "active"
     },
+    "vbrowser.hades-api.grok-sandbox.com": {
+      "canonical_name": "vbrowser.hades-api.grok-sandbox.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "vbrowser.hades-api.grok-sandbox.com",
+      "ipv4": [
+        "34.86.225.51"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "vbrowser.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.86.225.51"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "vbrowser.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.86.225.51"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "vbrowser.hades-api.grok-sandbox.com",
+          "ipv4": [
+            "34.86.225.51"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "grok-sandbox:grok-sandbox.com"
+      ],
+      "status": "active"
+    },
     "vidgen.x.ai": {
       "canonical_name": "vidgen.x.ai",
       "consecutive_negative_checks": 0,
@@ -3622,10 +5399,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3648,6 +5425,56 @@
         },
         "9.9.9.9": {
           "canonical_name": "vidgen.x.ai",
+          "ipv4": [
+            "104.18.18.80",
+            "104.18.19.80"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "xai-core:x.ai"
+      ],
+      "status": "active"
+    },
+    "webhooks.hooks.x.ai": {
+      "canonical_name": "webhooks.hooks.x.ai",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T13:09:03Z",
+      "hostname": "webhooks.hooks.x.ai",
+      "ipv4": [
+        "104.18.18.80",
+        "104.18.19.80"
+      ],
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T13:09:03Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "webhooks.hooks.x.ai",
+          "ipv4": [
+            "104.18.18.80",
+            "104.18.19.80"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "webhooks.hooks.x.ai",
+          "ipv4": [
+            "104.18.18.80",
+            "104.18.19.80"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "webhooks.hooks.x.ai",
           "ipv4": [
             "104.18.18.80",
             "104.18.19.80"
@@ -3672,10 +5499,10 @@
         "104.18.28.234",
         "104.18.29.234"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3722,10 +5549,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3772,10 +5599,10 @@
         "104.18.18.80",
         "104.18.19.80"
       ],
-      "last_check": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T10:45:25Z",
+      "last_success": "2026-08-21T13:09:03Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3814,18 +5641,18 @@
     },
     "yihao.hades-api.grok-sandbox.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T10:45:25Z",
       "hostname": "yihao.hades-api.grok-sandbox.com",
       "ipv4": [],
-      "last_check": "2026-08-21T10:45:25Z",
-      "last_failure": "2026-08-21T10:45:25Z",
-      "last_negative": "2026-08-21T10:45:25Z",
+      "last_check": "2026-08-21T13:09:03Z",
+      "last_failure": "2026-08-21T13:09:03Z",
+      "last_negative": "2026-08-21T13:09:03Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T10:45:25Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -3849,6 +5676,6 @@
       "status": "pending"
     }
   },
-  "updated_at": "2026-08-21T10:45:25Z",
+  "updated_at": "2026-08-21T13:09:03Z",
   "version": 2
 }
