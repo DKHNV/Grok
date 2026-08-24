@@ -1,3 +1,2 @@
 fou-h100.hades-api.grok-sandbox.com
-grok-sandbox.com
 hades-fou-h100.api.onprem.grok-sandbox.com

@@ -1,2 +1,0 @@
-hades-odyssey.api.gcp.grok-sandbox.com
-odyssey.hades-api.grok-sandbox.com
