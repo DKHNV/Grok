@@ -1,9 +1,2 @@
-click.c.email.api.x.ai
-click.email.api.x.ai
 fou-h100.hades-api.grok-sandbox.com
-grok-sandbox.com
-hades-atla-cpu01.api.onprem.grok-sandbox.com
 hades-fou-h100.api.onprem.grok-sandbox.com
-hades-memy.api.onprem.grok-sandbox.com
-memy.hades-api.grok-sandbox.com
-typeahead.grok-v2.x.ai
