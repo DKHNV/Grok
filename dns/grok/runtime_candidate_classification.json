@@ -1,7 +1,7 @@
 {
   "candidates": {
     "1569d149b64893f4a467499c81840258f1627496a024df3e5a624298b5f82e5f": {
-      "classified_at": "2026-09-02T18:52:16Z",
+      "classified_at": "2026-09-02T18:58:00Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 5,
@@ -23,7 +23,7 @@
       "version": 1
     },
     "3b6e029b701166d35f4e97151ebc535f7568e5f51cd7801f4b23b1bf2130f639": {
-      "classified_at": "2026-09-02T18:52:16Z",
+      "classified_at": "2026-09-02T18:58:00Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 5,
@@ -45,7 +45,7 @@
       "version": 1
     },
     "7b2b8d839da7e6d6e7fbadacd513da1a4f05f9de05fda1535ce6ed0cd2cd6c4a": {
-      "classified_at": "2026-09-02T18:52:16Z",
+      "classified_at": "2026-09-02T18:58:00Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 4,
@@ -67,7 +67,7 @@
       "version": 1
     },
     "d7d4e2ea2a90a5a8bbd1a5e73bb765c2bdace95295bdb1398542a2579a9b6999": {
-      "classified_at": "2026-09-02T18:52:16Z",
+      "classified_at": "2026-09-02T18:58:00Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 3,
@@ -89,7 +89,7 @@
       "version": 1
     }
   },
-  "classified_at": "2026-09-02T18:52:16Z",
+  "classified_at": "2026-09-02T18:58:00Z",
   "counts": {
     "candidate": 0,
     "observe_only": 4,
@@ -100,6 +100,6 @@
   "service": "grok",
   "source_content_hash": "d5ea758484bff4cfbca546128acd5ba3b0ae280a42371289f6569c2e1cc71aa4",
   "source_generated_at": "2026-09-02T18:37:31Z",
-  "source_last_intake_at": "2026-09-02T18:52:16Z",
+  "source_last_intake_at": "2026-09-02T18:58:00Z",
   "version": 1
 }
