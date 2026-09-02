@@ -22,9 +22,9 @@ concurrency:
 
 jobs:
   maintain:
-    uses: DKHNV/DNS-Maintenance/.github/workflows/reusable-maintenance.yml@4741a0f153d64ee8044deaa9ed0af0c040bf37c8
+    uses: DKHNV/DNS-Maintenance/.github/workflows/reusable-maintenance.yml@0ebf730deb89a3aa0a1dac31137103e3cd12b405
     with:
       config_path: dns-maintenance-v1.json
       collection: grok
       dry_run: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
-      engine_ref: 4741a0f153d64ee8044deaa9ed0af0c040bf37c8
+      engine_ref: 0ebf730deb89a3aa0a1dac31137103e3cd12b405
