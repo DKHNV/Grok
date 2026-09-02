@@ -1,0 +1,87 @@
+{
+  "candidates": [
+    {
+      "active_cycles": 3,
+      "candidate_id": "d7d4e2ea2a90a5a8bbd1a5e73bb765c2bdace95295bdb1398542a2579a9b6999",
+      "current_presence": true,
+      "current_routing_status": "grace",
+      "first_observed": "2026-09-02T18:22:02Z",
+      "hostname": "api.x.ai",
+      "id_version": 1,
+      "last_external_at": "2026-09-02T18:20:13Z",
+      "last_observed": "2026-09-02T18:22:02Z",
+      "observation_count": 1,
+      "presence_cycles": 4,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "state": "observed",
+      "suffix": "x.ai"
+    },
+    {
+      "active_cycles": 4,
+      "candidate_id": "7b2b8d839da7e6d6e7fbadacd513da1a4f05f9de05fda1535ce6ed0cd2cd6c4a",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-09-02T18:22:02Z",
+      "hostname": "assets.grokusercontent.com",
+      "id_version": 1,
+      "last_external_at": "2026-09-02T18:20:13Z",
+      "last_observed": "2026-09-02T18:22:02Z",
+      "observation_count": 1,
+      "presence_cycles": 4,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "state": "observed",
+      "suffix": "grokusercontent.com"
+    },
+    {
+      "active_cycles": 4,
+      "candidate_id": "1569d149b64893f4a467499c81840258f1627496a024df3e5a624298b5f82e5f",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-09-02T18:22:02Z",
+      "hostname": "gix.hades-api.grok-sandbox.com",
+      "id_version": 1,
+      "last_external_at": "2026-09-02T18:20:15Z",
+      "last_observed": "2026-09-02T18:32:31Z",
+      "observation_count": 2,
+      "presence_cycles": 4,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "state": "observed",
+      "suffix": "grok-sandbox.com"
+    },
+    {
+      "active_cycles": 4,
+      "candidate_id": "3b6e029b701166d35f4e97151ebc535f7568e5f51cd7801f4b23b1bf2130f639",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-09-02T18:22:02Z",
+      "hostname": "www.grok.com",
+      "id_version": 1,
+      "last_external_at": "2026-09-02T18:20:13Z",
+      "last_observed": "2026-09-02T18:22:02Z",
+      "observation_count": 1,
+      "presence_cycles": 4,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "state": "observed",
+      "suffix": "grok.com"
+    }
+  ],
+  "content_hash": "c35a7fb181c2bce656afa1584cdedfcc2a9f27eb78f5acd3e7ce48a29a5d8959",
+  "generated_at": "2026-09-02T18:32:31Z",
+  "hash_algorithm": "sha256",
+  "history_scope": "since_analytics_start",
+  "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
+  "schema_version": 1,
+  "service": "grok"
+}
