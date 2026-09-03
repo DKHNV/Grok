@@ -1,19 +1,19 @@
 {
   "candidates": {
     "1569d149b64893f4a467499c81840258f1627496a024df3e5a624298b5f82e5f": {
-      "active_cycles": 5,
+      "active_cycles": 25,
       "candidate_id": "1569d149b64893f4a467499c81840258f1627496a024df3e5a624298b5f82e5f",
       "current_presence": true,
-      "current_routing_status": "active",
+      "current_routing_status": "expired",
       "feed_present": true,
       "first_intake_at": "2026-09-02T18:52:16Z",
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "gix.hades-api.grok-sandbox.com",
       "last_external_at": "2026-09-02T18:20:15Z",
-      "last_intake_at": "2026-09-02T18:58:00Z",
+      "last_intake_at": "2026-09-03T04:19:15Z",
       "last_observed": "2026-09-02T18:32:31Z",
       "observation_count": 2,
-      "presence_cycles": 5,
+      "presence_cycles": 104,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -22,19 +22,19 @@
       "suffix": "grok-sandbox.com"
     },
     "3b6e029b701166d35f4e97151ebc535f7568e5f51cd7801f4b23b1bf2130f639": {
-      "active_cycles": 5,
+      "active_cycles": 6,
       "candidate_id": "3b6e029b701166d35f4e97151ebc535f7568e5f51cd7801f4b23b1bf2130f639",
       "current_presence": true,
-      "current_routing_status": "active",
+      "current_routing_status": "expired",
       "feed_present": true,
       "first_intake_at": "2026-09-02T18:52:16Z",
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "www.grok.com",
       "last_external_at": "2026-09-02T18:20:13Z",
-      "last_intake_at": "2026-09-02T18:58:00Z",
+      "last_intake_at": "2026-09-03T04:19:15Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 5,
+      "presence_cycles": 104,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -43,19 +43,19 @@
       "suffix": "grok.com"
     },
     "7b2b8d839da7e6d6e7fbadacd513da1a4f05f9de05fda1535ce6ed0cd2cd6c4a": {
-      "active_cycles": 4,
+      "active_cycles": 7,
       "candidate_id": "7b2b8d839da7e6d6e7fbadacd513da1a4f05f9de05fda1535ce6ed0cd2cd6c4a",
       "current_presence": true,
-      "current_routing_status": "grace",
+      "current_routing_status": "expired",
       "feed_present": true,
       "first_intake_at": "2026-09-02T18:52:16Z",
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "assets.grokusercontent.com",
       "last_external_at": "2026-09-02T18:20:13Z",
-      "last_intake_at": "2026-09-02T18:58:00Z",
+      "last_intake_at": "2026-09-03T04:19:15Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 5,
+      "presence_cycles": 104,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -64,19 +64,19 @@
       "suffix": "grokusercontent.com"
     },
     "d7d4e2ea2a90a5a8bbd1a5e73bb765c2bdace95295bdb1398542a2579a9b6999": {
-      "active_cycles": 3,
+      "active_cycles": 5,
       "candidate_id": "d7d4e2ea2a90a5a8bbd1a5e73bb765c2bdace95295bdb1398542a2579a9b6999",
       "current_presence": true,
-      "current_routing_status": "grace",
+      "current_routing_status": "expired",
       "feed_present": true,
       "first_intake_at": "2026-09-02T18:52:16Z",
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "api.x.ai",
       "last_external_at": "2026-09-02T18:20:13Z",
-      "last_intake_at": "2026-09-02T18:58:00Z",
+      "last_intake_at": "2026-09-03T04:19:15Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 5,
+      "presence_cycles": 104,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -85,11 +85,11 @@
       "suffix": "x.ai"
     }
   },
-  "last_intake_at": "2026-09-02T18:58:00Z",
+  "last_intake_at": "2026-09-03T04:19:15Z",
   "last_intake_status": "ok",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
   "schema_version": 1,
   "service": "grok",
-  "source_content_hash": "d5ea758484bff4cfbca546128acd5ba3b0ae280a42371289f6569c2e1cc71aa4",
-  "source_generated_at": "2026-09-02T18:37:31Z"
+  "source_content_hash": "cec80be9df65db322e2354d4c9ba318330755f8b4f74c79298c91a11b770306d",
+  "source_generated_at": "2026-09-03T02:56:59Z"
 }
