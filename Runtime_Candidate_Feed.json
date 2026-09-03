@@ -11,7 +11,7 @@
       "last_external_at": "2026-09-02T18:20:13Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 246,
+      "presence_cycles": 316,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -30,7 +30,7 @@
       "last_external_at": "2026-09-02T18:20:13Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 246,
+      "presence_cycles": 316,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -49,7 +49,7 @@
       "last_external_at": "2026-09-02T18:20:15Z",
       "last_observed": "2026-09-02T18:32:31Z",
       "observation_count": 2,
-      "presence_cycles": 246,
+      "presence_cycles": 316,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -58,7 +58,7 @@
       "suffix": "grok-sandbox.com"
     },
     {
-      "active_cycles": 6,
+      "active_cycles": 7,
       "candidate_id": "3b6e029b701166d35f4e97151ebc535f7568e5f51cd7801f4b23b1bf2130f639",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -68,7 +68,7 @@
       "last_external_at": "2026-09-02T18:20:13Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 246,
+      "presence_cycles": 316,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -77,8 +77,8 @@
       "suffix": "grok.com"
     }
   ],
-  "content_hash": "9ca101eb236bf832b5cd34c8444e5bf4d1d65fa31de55b3a73625165c8c7d10d",
-  "generated_at": "2026-09-03T14:58:31Z",
+  "content_hash": "b07dbfc5b839f7504eee252db42c1126be1e771feacd5da9f36a398c58b7752d",
+  "generated_at": "2026-09-03T20:56:11Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
