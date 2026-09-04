@@ -1,7 +1,7 @@
 {
   "candidates": {
     "1569d149b64893f4a467499c81840258f1627496a024df3e5a624298b5f82e5f": {
-      "classified_at": "2026-09-03T20:59:28Z",
+      "classified_at": "2026-09-04T04:27:01Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 25,
@@ -13,7 +13,7 @@
         "observation_count": 2,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 246,
+        "presence_cycles": 388,
         "reactivation_count": 0,
         "seen_days": 1
       },
@@ -23,29 +23,7 @@
       "version": 1
     },
     "3b6e029b701166d35f4e97151ebc535f7568e5f51cd7801f4b23b1bf2130f639": {
-      "classified_at": "2026-09-03T20:59:28Z",
-      "decision": "observe_only",
-      "evidence": {
-        "active_cycles": 6,
-        "current_presence": true,
-        "current_routing_status": "expired",
-        "exact_dns_present": true,
-        "exact_dns_status": "active",
-        "feed_present": true,
-        "observation_count": 1,
-        "policy_excluded": false,
-        "policy_rule": null,
-        "presence_cycles": 246,
-        "reactivation_count": 0,
-        "seen_days": 1
-      },
-      "mode": "shadow",
-      "policy_reason": null,
-      "reason": "exact_dns_existing",
-      "version": 1
-    },
-    "7b2b8d839da7e6d6e7fbadacd513da1a4f05f9de05fda1535ce6ed0cd2cd6c4a": {
-      "classified_at": "2026-09-03T20:59:28Z",
+      "classified_at": "2026-09-04T04:27:01Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 7,
@@ -57,7 +35,29 @@
         "observation_count": 1,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 246,
+        "presence_cycles": 388,
+        "reactivation_count": 0,
+        "seen_days": 1
+      },
+      "mode": "shadow",
+      "policy_reason": null,
+      "reason": "exact_dns_existing",
+      "version": 1
+    },
+    "7b2b8d839da7e6d6e7fbadacd513da1a4f05f9de05fda1535ce6ed0cd2cd6c4a": {
+      "classified_at": "2026-09-04T04:27:01Z",
+      "decision": "observe_only",
+      "evidence": {
+        "active_cycles": 7,
+        "current_presence": true,
+        "current_routing_status": "expired",
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
+        "feed_present": true,
+        "observation_count": 1,
+        "policy_excluded": false,
+        "policy_rule": null,
+        "presence_cycles": 388,
         "reactivation_count": 0,
         "seen_days": 1
       },
@@ -67,7 +67,7 @@
       "version": 1
     },
     "d7d4e2ea2a90a5a8bbd1a5e73bb765c2bdace95295bdb1398542a2579a9b6999": {
-      "classified_at": "2026-09-03T20:59:28Z",
+      "classified_at": "2026-09-04T04:27:01Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 5,
@@ -79,7 +79,7 @@
         "observation_count": 1,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 246,
+        "presence_cycles": 388,
         "reactivation_count": 0,
         "seen_days": 1
       },
@@ -89,7 +89,7 @@
       "version": 1
     }
   },
-  "classified_at": "2026-09-03T20:59:28Z",
+  "classified_at": "2026-09-04T04:27:01Z",
   "counts": {
     "candidate": 0,
     "observe_only": 4,
@@ -98,8 +98,8 @@
   },
   "mode": "shadow",
   "service": "grok",
-  "source_content_hash": "9ca101eb236bf832b5cd34c8444e5bf4d1d65fa31de55b3a73625165c8c7d10d",
-  "source_generated_at": "2026-09-03T14:58:31Z",
-  "source_last_intake_at": "2026-09-03T20:59:28Z",
+  "source_content_hash": "d9148b4de68552ed88bfc74cd06de8c403601c16454aedca7ea9c19c9b91f0be",
+  "source_generated_at": "2026-09-04T02:59:37Z",
+  "source_last_intake_at": "2026-09-04T04:27:01Z",
   "version": 1
 }
