@@ -25,7 +25,7 @@ add list=grok address=35.227.115.0/24 comment=grok
 add list=grok address=35.227.192.0/24 comment=grok
 add list=grok address=35.245.67.0/24 comment=grok
 add list=grok address=35.245.167.0/24 comment=grok
-add list=grok address=52.9.199.0/24 comment=grok
+add list=grok address=50.18.228.0/24 comment=grok
 add list=grok address=54.219.222.0/24 comment=grok
 add list=grok address=100.30.34.0/24 comment=grok
 add list=grok address=104.18.18.0/23 comment=grok
