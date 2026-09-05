@@ -1,7 +1,7 @@
 {
   "candidates": {
     "1569d149b64893f4a467499c81840258f1627496a024df3e5a624298b5f82e5f": {
-      "classified_at": "2026-09-05T10:31:14Z",
+      "classified_at": "2026-09-05T15:10:20Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 25,
@@ -13,7 +13,7 @@
         "observation_count": 2,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 745,
+        "presence_cycles": 816,
         "reactivation_count": 0,
         "seen_days": 1
       },
@@ -23,7 +23,7 @@
       "version": 1
     },
     "3b6e029b701166d35f4e97151ebc535f7568e5f51cd7801f4b23b1bf2130f639": {
-      "classified_at": "2026-09-05T10:31:14Z",
+      "classified_at": "2026-09-05T15:10:20Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 7,
@@ -35,7 +35,7 @@
         "observation_count": 1,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 745,
+        "presence_cycles": 816,
         "reactivation_count": 0,
         "seen_days": 1
       },
@@ -45,7 +45,7 @@
       "version": 1
     },
     "7b2b8d839da7e6d6e7fbadacd513da1a4f05f9de05fda1535ce6ed0cd2cd6c4a": {
-      "classified_at": "2026-09-05T10:31:14Z",
+      "classified_at": "2026-09-05T15:10:20Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 7,
@@ -57,7 +57,7 @@
         "observation_count": 1,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 745,
+        "presence_cycles": 816,
         "reactivation_count": 0,
         "seen_days": 1
       },
@@ -67,7 +67,7 @@
       "version": 1
     },
     "d7d4e2ea2a90a5a8bbd1a5e73bb765c2bdace95295bdb1398542a2579a9b6999": {
-      "classified_at": "2026-09-05T10:31:14Z",
+      "classified_at": "2026-09-05T15:10:20Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 6,
@@ -79,7 +79,7 @@
         "observation_count": 1,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 745,
+        "presence_cycles": 816,
         "reactivation_count": 0,
         "seen_days": 1
       },
@@ -89,7 +89,7 @@
       "version": 1
     }
   },
-  "classified_at": "2026-09-05T10:31:14Z",
+  "classified_at": "2026-09-05T15:10:20Z",
   "counts": {
     "candidate": 0,
     "observe_only": 4,
@@ -98,8 +98,8 @@
   },
   "mode": "shadow",
   "service": "grok",
-  "source_content_hash": "dd8564130a8c463765a9cdf56ca8803908ea225bb93ebb714ba62da3308d8360",
-  "source_generated_at": "2026-09-05T08:59:09Z",
-  "source_last_intake_at": "2026-09-05T10:31:14Z",
+  "source_content_hash": "b745bbeacd42abaffe141cc26261dc9928db8e5935f57bad55c9a70d80030803",
+  "source_generated_at": "2026-09-05T14:57:24Z",
+  "source_last_intake_at": "2026-09-05T15:10:20Z",
   "version": 1
 }
