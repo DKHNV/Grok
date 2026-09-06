@@ -4,25 +4,25 @@
       "grok-sandbox.com": {
         "after": 16979662832,
         "caught_up": true,
-        "last_poll": "2026-09-06T04:33:23Z"
+        "last_poll": "2026-09-06T10:51:52Z"
       },
       "grok.com": {
         "after": 17005039187,
         "caught_up": true,
-        "last_poll": "2026-09-06T04:33:23Z"
+        "last_poll": "2026-09-06T10:51:52Z"
       },
       "grokusercontent.com": {
         "after": 16894860920,
         "caught_up": true,
-        "last_poll": "2026-09-06T04:33:23Z"
+        "last_poll": "2026-09-06T10:51:52Z"
       },
       "x.ai": {
-        "after": 16992720812,
-        "caught_up": true,
-        "last_poll": "2026-09-06T04:33:23Z"
+        "after": 17017118210,
+        "caught_up": false,
+        "last_poll": "2026-09-06T10:51:52Z"
       }
     }
   },
-  "updated_at": "2026-09-06T04:33:23Z",
+  "updated_at": "2026-09-06T10:51:52Z",
   "version": 2
 }
