@@ -1,7 +1,7 @@
 {
   "candidates": {
     "1569d149b64893f4a467499c81840258f1627496a024df3e5a624298b5f82e5f": {
-      "active_cycles": 25,
+      "active_cycles": 36,
       "candidate_id": "1569d149b64893f4a467499c81840258f1627496a024df3e5a624298b5f82e5f",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -10,10 +10,10 @@
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "gix.hades-api.grok-sandbox.com",
       "last_external_at": "2026-09-02T18:20:15Z",
-      "last_intake_at": "2026-09-06T10:51:52Z",
+      "last_intake_at": "2026-09-06T15:25:43Z",
       "last_observed": "2026-09-02T18:32:31Z",
       "observation_count": 2,
-      "presence_cycles": 1030,
+      "presence_cycles": 1102,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -31,10 +31,10 @@
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "www.grok.com",
       "last_external_at": "2026-09-02T18:20:13Z",
-      "last_intake_at": "2026-09-06T10:51:52Z",
+      "last_intake_at": "2026-09-06T15:25:43Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 1030,
+      "presence_cycles": 1102,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -52,10 +52,10 @@
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "assets.grokusercontent.com",
       "last_external_at": "2026-09-02T18:20:13Z",
-      "last_intake_at": "2026-09-06T10:51:52Z",
+      "last_intake_at": "2026-09-06T15:25:43Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 1030,
+      "presence_cycles": 1102,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -73,10 +73,10 @@
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "api.x.ai",
       "last_external_at": "2026-09-02T18:20:13Z",
-      "last_intake_at": "2026-09-06T10:51:52Z",
+      "last_intake_at": "2026-09-06T15:25:43Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 1030,
+      "presence_cycles": 1102,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -85,11 +85,11 @@
       "suffix": "x.ai"
     }
   },
-  "last_intake_at": "2026-09-06T10:51:52Z",
+  "last_intake_at": "2026-09-06T15:25:43Z",
   "last_intake_status": "ok",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
   "schema_version": 1,
   "service": "grok",
-  "source_content_hash": "12d95a9e839a38acf9859253e7502c21f9a923401c35bbc58c1afe573e22edcf",
-  "source_generated_at": "2026-09-06T08:56:20Z"
+  "source_content_hash": "656092aa0c0fc89eabe0c255dd67f4b423fb79b2f138ae636065256b98dc7efd",
+  "source_generated_at": "2026-09-06T14:59:40Z"
 }
