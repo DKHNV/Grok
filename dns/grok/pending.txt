@@ -1,0 +1,2 @@
+hades-memy-13-gb300.api.onprem.grok-sandbox.com
+memy-13-gb300.hades-api.grok-sandbox.com
