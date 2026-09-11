@@ -10,10 +10,10 @@
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "gix.hades-api.grok-sandbox.com",
       "last_external_at": "2026-09-02T18:20:15Z",
-      "last_intake_at": "2026-09-11T04:34:56Z",
+      "last_intake_at": "2026-09-11T11:16:10Z",
       "last_observed": "2026-09-02T18:32:31Z",
       "observation_count": 2,
-      "presence_cycles": 2387,
+      "presence_cycles": 2458,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -31,10 +31,10 @@
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "www.grok.com",
       "last_external_at": "2026-09-02T18:20:13Z",
-      "last_intake_at": "2026-09-11T04:34:56Z",
+      "last_intake_at": "2026-09-11T11:16:10Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 2387,
+      "presence_cycles": 2458,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -52,10 +52,10 @@
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "assets.grokusercontent.com",
       "last_external_at": "2026-09-02T18:20:13Z",
-      "last_intake_at": "2026-09-11T04:34:56Z",
+      "last_intake_at": "2026-09-11T11:16:10Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 2387,
+      "presence_cycles": 2458,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -73,10 +73,10 @@
       "first_observed": "2026-09-02T18:22:02Z",
       "hostname": "api.x.ai",
       "last_external_at": "2026-09-02T18:20:13Z",
-      "last_intake_at": "2026-09-11T04:34:56Z",
+      "last_intake_at": "2026-09-11T11:16:10Z",
       "last_observed": "2026-09-02T18:22:02Z",
       "observation_count": 1,
-      "presence_cycles": 2387,
+      "presence_cycles": 2458,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-02"
@@ -85,11 +85,11 @@
       "suffix": "x.ai"
     }
   },
-  "last_intake_at": "2026-09-11T04:34:56Z",
+  "last_intake_at": "2026-09-11T11:16:10Z",
   "last_intake_status": "ok",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
   "schema_version": 1,
   "service": "grok",
-  "source_content_hash": "ea66ab5cee9207b7006fa26924b17579fcde0115d21cb9f59005514469044e26",
-  "source_generated_at": "2026-09-11T02:58:29Z"
+  "source_content_hash": "633ca4f62020811af769fb3266852668176d58966ecc59bcec18d8fa943c3924",
+  "source_generated_at": "2026-09-11T08:56:23Z"
 }
