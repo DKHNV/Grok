@@ -12,12 +12,14 @@ grokusercontent.com
 hades-atla-cpu01.api.onprem.grok-sandbox.com
 hades-fou-h100.api.onprem.grok-sandbox.com
 hades-memy-09-staging.api.onprem.grok-sandbox.com
+hades-memy-13-gb300.api.onprem.grok-sandbox.com
 hades-memy-cpu01-arm.api.onprem.grok-sandbox.com
 hades-memy-cpu01-x86.api.onprem.grok-sandbox.com
 hades-memy.api.onprem.grok-sandbox.com
 hades-yihao.api.gcp.grok-sandbox.com
 max-raw.api.x.ai
 memy-09-staging.hades-api.grok-sandbox.com
+memy-13-gb300.hades-api.grok-sandbox.com
 memy-cpu01-arm.hades-api.grok-sandbox.com
 memy-cpu01-x86.hades-api.grok-sandbox.com
 memy.hades-api.grok-sandbox.com
