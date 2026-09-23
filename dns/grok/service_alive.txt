@@ -14,6 +14,7 @@ console.x.ai
 data.x.ai
 deferred-chat.x.ai
 docs.x.ai
+eevidence-uat.x.ai
 files-cdn.x.ai
 grok.com
 images-public.x.ai
