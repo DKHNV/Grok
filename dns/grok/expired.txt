@@ -18,5 +18,4 @@ staging-cm-api.x.ai
 typeahead.grok.com
 us-east-4-cm.api.x.ai
 us-east-4-comfyui-raw.api.x.ai
-us-saltlake-2-raw.api.x.ai
 yihao.hades-api.grok-sandbox.com
