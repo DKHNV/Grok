@@ -5,10 +5,12 @@ atla-cpu01.hades-api.grok-sandbox.com
 click.c.email.api.x.ai
 click.email.api.x.ai
 cloud9-cm.api.x.ai
+fou-h100.hades-api.grok-sandbox.com
 grok-api.grok.com
 grok-sandbox.com
 grokusercontent.com
 hades-atla-cpu01.api.onprem.grok-sandbox.com
+hades-fou-h100.api.onprem.grok-sandbox.com
 hades-memy-09-staging.api.onprem.grok-sandbox.com
 hades-memy-cpu01-arm.api.onprem.grok-sandbox.com
 hades-memy-cpu01-x86.api.onprem.grok-sandbox.com
