@@ -22,7 +22,6 @@ memy-cpu01-x86.hades-api.grok-sandbox.com
 memy.hades-api.grok-sandbox.com
 research-models-cm.api.x.ai
 research-vendors-cm.api.x.ai
-staging-cm-api.x.ai
 typeahead.grok-v2.x.ai
 typeahead.grok.com
 us-east-4-cm.api.x.ai

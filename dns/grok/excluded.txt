@@ -10,4 +10,5 @@ hades-staging.api.gcp.grok-sandbox.com
 ikruk.hades-api.grok-sandbox.com
 psafronov.hades-api.grok-sandbox.com
 sip.staging.voice.x.ai
+staging-cm-api.x.ai
 staging.hades-api.grok-sandbox.com
