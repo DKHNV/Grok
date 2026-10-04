@@ -2,3 +2,4 @@ hades-memy-13-gb300.api.onprem.grok-sandbox.com
 hades-memy-20-gb300.api.onprem.grok-sandbox.com
 memy-13-gb300.hades-api.grok-sandbox.com
 memy-20-gb300.hades-api.grok-sandbox.com
+us-saltlake-2-raw.api.x.ai
