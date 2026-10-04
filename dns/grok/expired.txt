@@ -1,8 +1,6 @@
 ap-northeast-1-cm.api.x.ai
 api-raw.x.ai
 atla-cpu01.hades-api.grok-sandbox.com
-click.c.email.api.x.ai
-click.email.api.x.ai
 cloud9-cm.api.x.ai
 fou-h100.hades-api.grok-sandbox.com
 grok-api.grok.com
