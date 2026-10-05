@@ -1,1 +1,2 @@
-max-raw.api.x.ai
+asia-south1-livekit.grok.com
+asia-south1.livekit.x.ai

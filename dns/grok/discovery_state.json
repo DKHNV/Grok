@@ -2,27 +2,27 @@
   "sources": {
     "certspotter": {
       "grok-sandbox.com": {
-        "after": 17578891079,
+        "after": 17589367973,
         "caught_up": false,
-        "last_poll": "2026-10-04T21:20:02Z"
+        "last_poll": "2026-10-05T05:33:09Z"
       },
       "grok.com": {
         "after": 17262746287,
         "caught_up": true,
-        "last_poll": "2026-10-04T21:20:02Z"
+        "last_poll": "2026-10-05T05:33:09Z"
       },
       "grokusercontent.com": {
         "after": 16894860920,
         "caught_up": true,
-        "last_poll": "2026-10-04T21:20:02Z"
+        "last_poll": "2026-10-05T05:33:09Z"
       },
       "x.ai": {
-        "after": 17574090593,
-        "caught_up": true,
-        "last_poll": "2026-10-04T21:20:02Z"
+        "after": 17592956861,
+        "caught_up": false,
+        "last_poll": "2026-10-05T05:33:09Z"
       }
     }
   },
-  "updated_at": "2026-10-04T21:20:02Z",
+  "updated_at": "2026-10-05T05:33:09Z",
   "version": 2
 }
