@@ -28,6 +28,7 @@ slack.hooks.x.ai
 ssff.grok.com
 sso-auth.x.ai
 sso.x.ai
+status-v2.x.ai
 status.x.ai
 transcription.grok-v2.x.ai
 trust.x.ai
