@@ -20,6 +20,7 @@ grok.com
 images-public.x.ai
 imgen.x.ai
 jf.x.ai
+links.email.x.ai
 livekit-enterprise.grok.com
 livekit.grok.com
 mcp-sandbox.grokusercontent.com

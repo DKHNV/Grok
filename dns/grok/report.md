@@ -1,23 +1,23 @@
 # Grok DNS Maintenance Report
 
-Generated: `2026-10-06T18:19:13Z`
+Generated: `2026-10-07T05:53:25Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 84 |
-| Pending | 6 |
-| Suspect | 2 |
-| Quarantine | 6 |
-| Excluded | 16 |
-| Expired | 20 |
+| Active | 85 |
+| Pending | 5 |
+| Suspect | 4 |
+| Quarantine | 7 |
+| Excluded | 15 |
+| Expired | 19 |
 
 ## HTTPS/TLS observation
 
 | State | Hosts |
 |---|---:|
-| Alive | 43 |
+| Alive | 44 |
 | Unknown | 0 |
 | Suspect | 0 |
 | Dead | 42 |
@@ -26,8 +26,8 @@ Generated: `2026-10-06T18:19:13Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **85**
-Average stability: **50.5%**
+Measured hosts: **86**
+Average stability: **51.1%**
 
 ## Current HTTPS/TLS failures
 
@@ -39,52 +39,52 @@ Average stability: **50.5%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `fvugwdk3.email.grok.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 137.22.248.76 | 0.0 | 48 |
-| `gix.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 34.23.245.206 | 0.0 | 48 |
-| `grok-chat.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 35.245.167.101 | 0.0 | 48 |
-| `grok-code-wild.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 8.234.156.60 | 0.0 | 48 |
-| `grok-code-xai.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 34.48.102.92 | 0.0 | 48 |
-| `grok-computer-wild.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.48.178.33 | 0.0 | 48 |
-| `grok-computer-xai.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.86.77.84 | 0.0 | 48 |
-| `hades-gix.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.23.245.206 | 0.0 | 48 |
-| `hades-grok-chat.api.gcp.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 35.245.167.101 | 0.0 | 48 |
-| `hades-grok-code-wild.api.gcp.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 8.234.156.60 | 0.0 | 48 |
-| `hades-grok-code-xai.api.gcp.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 34.48.102.92 | 0.0 | 48 |
-| `hades-grok-computer-wild.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.48.178.33 | 0.0 | 48 |
-| `hades-grok-computer-xai.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.86.77.84 | 0.0 | 48 |
-| `hades-iowa.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.67.185.15 | 0.0 | 48 |
-| `hades-lv.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.16.250.174 | 0.0 | 48 |
-| `hades-mh.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 35.227.115.226 | 0.0 | 48 |
-| `hades-mini.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 104.196.162.208 | 0.0 | 48 |
-| `hades-nevada.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.125.95.100 | 0.0 | 48 |
-| `hades-odyssey.api.gcp.grok-sandbox.com` | dead | `2026-08-21T18:53:47Z` | 171 | TIMEOUT | 34.86.181.21 | 0.0 | 48 |
-| `hades-ohio.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.162.150.75 | 0.0 | 48 |
-| `hades-rl.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.21.58.27 | 0.0 | 48 |
-| `hades-rl2.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.138.9.57 | 0.0 | 48 |
-| `hades-st.api.gcp.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 34.145.172.50 | 0.0 | 48 |
-| `hades-tool-calling.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 35.245.67.216 | 0.0 | 48 |
-| `hades-vbrowser.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.86.225.51 | 0.0 | 48 |
-| `iowa.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.67.185.15 | 0.0 | 48 |
-| `lv.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.16.250.174 | 0.0 | 48 |
-| `mh.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 35.227.115.226 | 0.0 | 48 |
-| `mini.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 104.196.162.208 | 0.0 | 48 |
-| `nevada.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.125.95.100 | 0.0 | 48 |
-| `nxat9edg.email.grok.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 137.22.224.203 | 0.0 | 48 |
-| `odyssey.hades-api.grok-sandbox.com` | dead | `2026-08-21T18:53:47Z` | 171 | TIMEOUT | 34.86.181.21 | 0.0 | 48 |
-| `ohio.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.162.150.75 | 0.0 | 48 |
-| `rl.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.21.58.27 | 0.0 | 48 |
-| `rl2.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.138.9.57 | 0.0 | 48 |
-| `sip.voice.x.ai` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 8.228.120.166 | 0.0 | 48 |
-| `st.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 34.145.172.50 | 0.0 | 48 |
-| `tool-calling.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 35.245.67.216 | 0.0 | 48 |
-| `us-east-1-raw.api.x.ai` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 100.26.152.75, 52.1.50.92, 52.87.84.19 | 0.0 | 48 |
-| `us-south-1-pltr.api.x.ai` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 199.16.156.221 | 0.0 | 48 |
-| `us-west-1-raw.api.x.ai` | dead | `2026-08-21T10:45:25Z` | 173 | TIMEOUT | 199.16.156.218 | 0.0 | 48 |
-| `vbrowser.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 172 | TIMEOUT | 34.86.225.51 | 0.0 | 48 |
+| `fvugwdk3.email.grok.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 137.22.248.76 | 0.0 | 47 |
+| `gix.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 34.23.245.206 | 0.0 | 47 |
+| `grok-chat.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 35.245.167.101 | 0.0 | 47 |
+| `grok-code-wild.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 8.234.156.60 | 0.0 | 47 |
+| `grok-code-xai.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 34.48.102.92 | 0.0 | 47 |
+| `grok-computer-wild.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.48.178.33 | 0.0 | 47 |
+| `grok-computer-xai.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.86.77.84 | 0.0 | 47 |
+| `hades-gix.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.23.245.206 | 0.0 | 47 |
+| `hades-grok-chat.api.gcp.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 35.245.167.101 | 0.0 | 47 |
+| `hades-grok-code-wild.api.gcp.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 8.234.156.60 | 0.0 | 47 |
+| `hades-grok-code-xai.api.gcp.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 34.48.102.92 | 0.0 | 47 |
+| `hades-grok-computer-wild.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.48.178.33 | 0.0 | 47 |
+| `hades-grok-computer-xai.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.86.77.84 | 0.0 | 47 |
+| `hades-iowa.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.67.185.15 | 0.0 | 47 |
+| `hades-lv.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.16.250.174 | 0.0 | 47 |
+| `hades-mh.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 35.227.115.226 | 0.0 | 47 |
+| `hades-mini.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 104.196.162.208 | 0.0 | 47 |
+| `hades-nevada.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.125.95.100 | 0.0 | 47 |
+| `hades-odyssey.api.gcp.grok-sandbox.com` | dead | `2026-08-21T18:53:47Z` | 172 | TIMEOUT | 34.86.181.21 | 0.0 | 47 |
+| `hades-ohio.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.162.150.75 | 0.0 | 47 |
+| `hades-rl.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.21.58.27 | 0.0 | 47 |
+| `hades-rl2.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.138.9.57 | 0.0 | 47 |
+| `hades-st.api.gcp.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 34.145.172.50 | 0.0 | 47 |
+| `hades-tool-calling.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 35.245.67.216 | 0.0 | 47 |
+| `hades-vbrowser.api.gcp.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.86.225.51 | 0.0 | 47 |
+| `iowa.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.67.185.15 | 0.0 | 47 |
+| `lv.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.16.250.174 | 0.0 | 47 |
+| `mh.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 35.227.115.226 | 0.0 | 47 |
+| `mini.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 104.196.162.208 | 0.0 | 47 |
+| `nevada.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.125.95.100 | 0.0 | 47 |
+| `nxat9edg.email.grok.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 137.22.224.203 | 0.0 | 47 |
+| `odyssey.hades-api.grok-sandbox.com` | dead | `2026-08-21T18:53:47Z` | 172 | TIMEOUT | 34.86.181.21 | 0.0 | 47 |
+| `ohio.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.162.150.75 | 0.0 | 47 |
+| `rl.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.21.58.27 | 0.0 | 47 |
+| `rl2.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.138.9.57 | 0.0 | 47 |
+| `sip.voice.x.ai` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 8.228.120.166 | 0.0 | 47 |
+| `st.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 34.145.172.50 | 0.0 | 47 |
+| `tool-calling.hades-api.grok-sandbox.com` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 35.245.67.216 | 0.0 | 47 |
+| `us-east-1-raw.api.x.ai` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 100.26.152.75, 52.1.50.92, 52.87.84.19 | 0.0 | 47 |
+| `us-south-1-pltr.api.x.ai` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 199.16.156.221 | 0.0 | 47 |
+| `us-west-1-raw.api.x.ai` | dead | `2026-08-21T10:45:25Z` | 174 | TIMEOUT | 199.16.156.218 | 0.0 | 47 |
+| `vbrowser.hades-api.grok-sandbox.com` | dead | `2026-08-21T13:09:03Z` | 173 | TIMEOUT | 34.86.225.51 | 0.0 | 47 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-06T18:19:13Z`
+Discovery state updated: `2026-10-07T05:53:25Z`
 
 ## Notes
 
