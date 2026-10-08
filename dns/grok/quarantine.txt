@@ -1,3 +1,5 @@
+asia-south1-livekit.grok.com
+asia-south1.livekit.x.ai
 hades-memy-13-gb300.api.onprem.grok-sandbox.com
 hades-memy-20-gb300.api.onprem.grok-sandbox.com
 max-raw.api.x.ai

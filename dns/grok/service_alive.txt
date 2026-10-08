@@ -2,7 +2,6 @@ accounts.x.ai
 api.x.ai
 app-media.x.ai
 artifacts.grokusercontent.com
-asia-south1-livekit.grok.com
 assets.grok.com
 assets.grokusercontent.com
 c.email.api.x.ai

@@ -1,4 +1,2 @@
-asia-south1-livekit.grok.com
-asia-south1.livekit.x.ai
 click.c.email.api.x.ai
 click.email.api.x.ai
