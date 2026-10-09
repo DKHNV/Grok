@@ -1,5 +1,7 @@
 grokusercontent.com
 hades-memy-cpu01-arm.api.onprem.grok-sandbox.com
 hades-memy-cpu01-x86.api.onprem.grok-sandbox.com
+hades-memy.api.onprem.grok-sandbox.com
 memy-cpu01-arm.hades-api.grok-sandbox.com
 memy-cpu01-x86.hades-api.grok-sandbox.com
+memy.hades-api.grok-sandbox.com
