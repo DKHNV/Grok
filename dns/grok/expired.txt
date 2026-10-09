@@ -1,11 +1,9 @@
 ap-northeast-1-cm.api.x.ai
 api-raw.x.ai
-atla-cpu01.hades-api.grok-sandbox.com
 cloud9-cm.api.x.ai
 fou-h100.hades-api.grok-sandbox.com
 grok-api.grok.com
 grok-sandbox.com
-hades-atla-cpu01.api.onprem.grok-sandbox.com
 hades-fou-h100.api.onprem.grok-sandbox.com
 hades-yihao.api.gcp.grok-sandbox.com
 research-models-cm.api.x.ai
