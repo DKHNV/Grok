@@ -1,5 +1,4 @@
 atla-cpu01.hades-api.grok-sandbox.com
-grokusercontent.com
 hades-atla-cpu01.api.onprem.grok-sandbox.com
 hades-memy.api.onprem.grok-sandbox.com
 memy.hades-api.grok-sandbox.com
