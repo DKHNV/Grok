@@ -1,15 +1,10 @@
-ap-northeast-1-cm.api.x.ai
-api-raw.x.ai
 cloud9-cm.api.x.ai
 fou-h100.hades-api.grok-sandbox.com
 grok-api.grok.com
 grok-sandbox.com
 hades-fou-h100.api.onprem.grok-sandbox.com
 hades-yihao.api.gcp.grok-sandbox.com
-research-models-cm.api.x.ai
-research-vendors-cm.api.x.ai
 typeahead.grok-v2.x.ai
 typeahead.grok.com
 us-east-4-cm.api.x.ai
-us-east-4-comfyui-raw.api.x.ai
 yihao.hades-api.grok-sandbox.com
