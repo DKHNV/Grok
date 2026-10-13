@@ -1,7 +1,5 @@
 ap-northeast-1-cm.api.x.ai
 api-raw.x.ai
-atla-cpu01.hades-api.grok-sandbox.com
-hades-atla-cpu01.api.onprem.grok-sandbox.com
 research-models-cm.api.x.ai
 research-vendors-cm.api.x.ai
 us-east-4-comfyui-raw.api.x.ai
