@@ -23,6 +23,7 @@ links.email.x.ai
 livekit-enterprise.grok.com
 livekit.grok.com
 mcp-sandbox.grokusercontent.com
+partnerportal.x.ai
 shop.x.ai
 slack.hooks.x.ai
 ssff.grok.com
