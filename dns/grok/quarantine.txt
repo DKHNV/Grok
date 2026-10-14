@@ -2,6 +2,7 @@ asia-south1-livekit.grok.com
 asia-south1.livekit.x.ai
 click.c.email.api.x.ai
 click.email.api.x.ai
+grokusercontent.com
 hades-memy-09-staging.api.onprem.grok-sandbox.com
 hades-memy-13-gb300.api.onprem.grok-sandbox.com
 hades-memy-20-gb300.api.onprem.grok-sandbox.com
