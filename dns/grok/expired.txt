@@ -1,6 +1,5 @@
 cloud9-cm.api.x.ai
 grok-api.grok.com
-grok-sandbox.com
 hades-yihao.api.gcp.grok-sandbox.com
 typeahead.grok-v2.x.ai
 typeahead.grok.com
