@@ -1,4 +1,3 @@
-cloud9-cm.api.x.ai
 grok-api.grok.com
 hades-memy-13-gb300.api.onprem.grok-sandbox.com
 hades-yihao.api.gcp.grok-sandbox.com
