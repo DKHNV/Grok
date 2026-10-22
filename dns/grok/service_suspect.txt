@@ -1,2 +1,0 @@
-hades-ic-prod-h100.api.gcp.grok-sandbox.com
-ic-prod-h100.hades-api.grok-sandbox.com

@@ -11,6 +11,7 @@ hades-grok-code-wild.api.gcp.grok-sandbox.com
 hades-grok-code-xai.api.gcp.grok-sandbox.com
 hades-grok-computer-wild.api.gcp.grok-sandbox.com
 hades-grok-computer-xai.api.gcp.grok-sandbox.com
+hades-ic-prod-h100.api.gcp.grok-sandbox.com
 hades-iowa.api.gcp.grok-sandbox.com
 hades-lv.api.gcp.grok-sandbox.com
 hades-mh.api.gcp.grok-sandbox.com
@@ -23,6 +24,7 @@ hades-rl2.api.gcp.grok-sandbox.com
 hades-st.api.gcp.grok-sandbox.com
 hades-tool-calling.api.gcp.grok-sandbox.com
 hades-vbrowser.api.gcp.grok-sandbox.com
+ic-prod-h100.hades-api.grok-sandbox.com
 iowa.hades-api.grok-sandbox.com
 lv.hades-api.grok-sandbox.com
 mh.hades-api.grok-sandbox.com
