@@ -1,2 +1,1 @@
 cloud9-cm.api.x.ai
-status-v2.x.ai
