@@ -4,5 +4,4 @@ hades-yihao.api.gcp.grok-sandbox.com
 memy-13-gb300.hades-api.grok-sandbox.com
 typeahead.grok-v2.x.ai
 typeahead.grok.com
-us-east-4-cm.api.x.ai
 yihao.hades-api.grok-sandbox.com
