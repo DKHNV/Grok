@@ -1,2 +1,1 @@
-us-east-4-cm.api.x.ai
 vault-token-check-prod-atla-prod-mc01.x.ai
