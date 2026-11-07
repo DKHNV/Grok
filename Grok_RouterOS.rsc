@@ -2,7 +2,6 @@
 
 add list=grok address=8.228.120.0/24 comment=grok
 add list=grok address=8.234.156.0/24 comment=grok
-add list=grok address=13.57.44.0/24 comment=grok
 add list=grok address=23.227.38.0/24 comment=grok
 add list=grok address=34.16.250.0/24 comment=grok
 add list=grok address=34.21.58.0/24 comment=grok
@@ -19,14 +18,15 @@ add list=grok address=34.125.95.0/24 comment=grok
 add list=grok address=34.138.9.0/24 comment=grok
 add list=grok address=34.145.172.0/24 comment=grok
 add list=grok address=34.162.150.0/24 comment=grok
+add list=grok address=35.169.163.0/24 comment=grok
 add list=grok address=35.227.115.0/24 comment=grok
 add list=grok address=35.227.192.0/24 comment=grok
 add list=grok address=35.245.67.0/24 comment=grok
 add list=grok address=35.245.167.0/24 comment=grok
-add list=grok address=52.1.50.0/24 comment=grok
-add list=grok address=52.87.84.0/24 comment=grok
-add list=grok address=54.183.93.0/24 comment=grok
-add list=grok address=100.26.152.0/24 comment=grok
+add list=grok address=52.9.7.0/24 comment=grok
+add list=grok address=52.9.210.0/24 comment=grok
+add list=grok address=54.205.173.0/24 comment=grok
+add list=grok address=100.28.44.0/24 comment=grok
 add list=grok address=104.18.18.0/23 comment=grok
 add list=grok address=104.18.26.0/23 comment=grok
 add list=grok address=104.18.28.0/23 comment=grok
