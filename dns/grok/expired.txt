@@ -2,7 +2,6 @@ grok-api.grok.com
 hades-memy-13-gb300.api.onprem.grok-sandbox.com
 hades-memy-20-gb300.api.onprem.grok-sandbox.com
 hades-yihao.api.gcp.grok-sandbox.com
-max-raw.api.x.ai
 memy-13-gb300.hades-api.grok-sandbox.com
 memy-20-gb300.hades-api.grok-sandbox.com
 staging-cm-api.x.ai
