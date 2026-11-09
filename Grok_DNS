@@ -34,6 +34,7 @@ hades-grok-computer-wild.api.gcp.grok-sandbox.com
 hades-grok-computer-xai.api.gcp.grok-sandbox.com
 hades-ic-prod-h100.api.gcp.grok-sandbox.com
 hades-iowa.api.gcp.grok-sandbox.com
+hades-janetl.api.gcp.grok-sandbox.com
 hades-lv.api.gcp.grok-sandbox.com
 hades-mh.api.gcp.grok-sandbox.com
 hades-mini.api.gcp.grok-sandbox.com
@@ -49,6 +50,7 @@ ic-prod-h100.hades-api.grok-sandbox.com
 images-public.x.ai
 imgen.x.ai
 iowa.hades-api.grok-sandbox.com
+janetl.hades-api.grok-sandbox.com
 jf.x.ai
 learn.grok.com
 links.email.x.ai
