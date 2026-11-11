@@ -1,1 +1,2 @@
-us-saltlake-2-raw.api.x.ai
+hades-memy-cpu01-x86-staging.api.onprem.grok-sandbox.com
+memy-cpu01-x86-staging.hades-api.grok-sandbox.com
