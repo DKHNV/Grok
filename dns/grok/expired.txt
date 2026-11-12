@@ -9,6 +9,5 @@ hades-yihao.api.gcp.grok-sandbox.com
 memy-13-gb300.hades-api.grok-sandbox.com
 memy-20-gb300.hades-api.grok-sandbox.com
 staging-cm-api.x.ai
-typeahead.grok-v2.x.ai
 typeahead.grok.com
 yihao.hades-api.grok-sandbox.com

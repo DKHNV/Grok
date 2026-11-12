@@ -12,7 +12,6 @@ cli-chat-proxy.grok.com
 click.email.grok.com
 code.grok.com
 console.x.ai
-cred.grok.com
 data.x.ai
 deferred-chat.x.ai
 docs.x.ai

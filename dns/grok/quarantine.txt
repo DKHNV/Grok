@@ -2,6 +2,7 @@ ap-northeast-1-cm.api.x.ai
 api-raw.x.ai
 atla-cpu01.hades-api.grok-sandbox.com
 cloud9-cm.api.x.ai
+cred.grok.com
 fou-h100.hades-api.grok-sandbox.com
 grok-sandbox.com
 grokusercontent.com
