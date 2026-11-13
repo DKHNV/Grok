@@ -3,11 +3,16 @@ asia-south1.livekit.x.ai
 click.c.email.api.x.ai
 click.email.api.x.ai
 grok-api.grok.com
+hades-memy-09-staging.api.onprem.grok-sandbox.com
 hades-memy-13-gb300.api.onprem.grok-sandbox.com
 hades-memy-20-gb300.api.onprem.grok-sandbox.com
+hades-memy-cpu01-arm.api.onprem.grok-sandbox.com
+hades-memy-cpu01-x86.api.onprem.grok-sandbox.com
 hades-yihao.api.gcp.grok-sandbox.com
+memy-09-staging.hades-api.grok-sandbox.com
 memy-13-gb300.hades-api.grok-sandbox.com
 memy-20-gb300.hades-api.grok-sandbox.com
+memy-cpu01-arm.hades-api.grok-sandbox.com
+memy-cpu01-x86.hades-api.grok-sandbox.com
 staging-cm-api.x.ai
-typeahead.grok.com
 yihao.hades-api.grok-sandbox.com
