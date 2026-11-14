@@ -1,4 +1,2 @@
-hades-memy-cpu01-x86-staging.api.onprem.grok-sandbox.com
-memy-cpu01-x86-staging.hades-api.grok-sandbox.com
 typeahead.grok-v2.x.ai
 typeahead.grok.com
