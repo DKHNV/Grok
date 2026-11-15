@@ -17,4 +17,5 @@ research-vendors-cm.api.x.ai
 status-v2.x.ai
 us-east-4-cm.api.x.ai
 us-east-4-comfyui-raw.api.x.ai
+us-saltlake-2-raw.api.x.ai
 vault-token-check-prod-atla-prod-mc01.x.ai
