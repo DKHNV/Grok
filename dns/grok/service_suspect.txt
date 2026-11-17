@@ -1,2 +1,0 @@
-hades-janetl.api.gcp.grok-sandbox.com
-janetl.hades-api.grok-sandbox.com
