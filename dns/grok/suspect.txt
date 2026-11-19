@@ -1,2 +1,1 @@
-typeahead.grok-v2.x.ai
 typeahead.grok.com
