@@ -1,1 +1,2 @@
-typeahead.grok.com
+atla-cpu01-intel.hades-api.grok-sandbox.com
+hades-atla-cpu01-intel.api.onprem.grok-sandbox.com

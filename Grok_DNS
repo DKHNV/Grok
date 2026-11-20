@@ -1,4 +1,5 @@
 accounts.x.ai
+analytics.grok.com
 api.merchants.x.ai
 api.staging.merchants.x.ai
 api.x.ai
@@ -16,6 +17,7 @@ data.x.ai
 deferred-chat.x.ai
 docs.grok.com
 docs.x.ai
+ebecker.hades-api.grok-sandbox.com
 eevidence-uat.x.ai
 files-cdn.x.ai
 fvugwdk3.email.grok.com
@@ -26,6 +28,7 @@ grok-code-xai.hades-api.grok-sandbox.com
 grok-computer-wild.hades-api.grok-sandbox.com
 grok-computer-xai.hades-api.grok-sandbox.com
 grok.com
+hades-ebecker.api.gcp.grok-sandbox.com
 hades-gix.api.gcp.grok-sandbox.com
 hades-grok-chat.api.gcp.grok-sandbox.com
 hades-grok-code-wild.api.gcp.grok-sandbox.com

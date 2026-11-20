@@ -1,4 +1,2 @@
-atla-cpu01-intel.hades-api.grok-sandbox.com
-hades-atla-cpu01-intel.api.onprem.grok-sandbox.com
 hades-memy-20-gb300.api.onprem.grok-sandbox.com
 memy-20-gb300.hades-api.grok-sandbox.com

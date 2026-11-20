@@ -1,4 +1,5 @@
 accounts.x.ai
+analytics.grok.com
 api.merchants.x.ai
 api.staging.merchants.x.ai
 api.x.ai

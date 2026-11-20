@@ -1,0 +1,2 @@
+ebecker.hades-api.grok-sandbox.com
+hades-ebecker.api.gcp.grok-sandbox.com
