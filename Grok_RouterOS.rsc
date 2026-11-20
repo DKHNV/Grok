@@ -1,7 +1,9 @@
 /ip firewall address-list
 
+add list=grok address=3.216.5.0/24 comment=grok
 add list=grok address=8.228.120.0/24 comment=grok
 add list=grok address=8.234.156.0/24 comment=grok
+add list=grok address=13.217.184.0/24 comment=grok
 add list=grok address=23.227.38.0/24 comment=grok
 add list=grok address=34.16.250.0/24 comment=grok
 add list=grok address=34.21.58.0/24 comment=grok
@@ -22,10 +24,7 @@ add list=grok address=35.227.115.0/24 comment=grok
 add list=grok address=35.227.192.0/24 comment=grok
 add list=grok address=35.245.67.0/24 comment=grok
 add list=grok address=35.245.167.0/24 comment=grok
-add list=grok address=52.3.15.0/24 comment=grok
-add list=grok address=52.8.154.0/24 comment=grok
-add list=grok address=52.9.7.0/24 comment=grok
-add list=grok address=54.205.173.0/24 comment=grok
+add list=grok address=52.8.232.0/24 comment=grok
 add list=grok address=100.28.44.0/24 comment=grok
 add list=grok address=104.18.18.0/23 comment=grok
 add list=grok address=104.18.26.0/23 comment=grok
@@ -43,3 +42,4 @@ add list=grok address=172.65.166.0/24 comment=grok
 add list=grok address=172.66.167.0/24 comment=grok
 add list=grok address=172.67.205.0/24 comment=grok
 add list=grok address=199.16.156.0/24 comment=grok
+add list=grok address=204.236.139.0/24 comment=grok
