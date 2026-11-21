@@ -1,10 +1,8 @@
 atla-cpu01-staging.hades-api.grok-sandbox.com
 cloud9-cm.api.x.ai
 cred.grok.com
-fou-h100.hades-api.grok-sandbox.com
 grok-sandbox.com
 hades-atla-cpu01-staging.api.onprem.grok-sandbox.com
-hades-fou-h100.api.onprem.grok-sandbox.com
 hades-memy-cpu01-x86-staging.api.onprem.grok-sandbox.com
 max-raw.api.x.ai
 memy-cpu01-x86-staging.hades-api.grok-sandbox.com
