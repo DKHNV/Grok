@@ -49,6 +49,7 @@ hades-rl2.api.gcp.grok-sandbox.com
 hades-st.api.gcp.grok-sandbox.com
 hades-tool-calling.api.gcp.grok-sandbox.com
 hades-vbrowser.api.gcp.grok-sandbox.com
+hades-vendor.api.gcp.grok-sandbox.com
 ic-prod-h100.hades-api.grok-sandbox.com
 images-public.x.ai
 imgen.x.ai
@@ -90,6 +91,7 @@ us-south-1-pltr.api.x.ai
 us-west-1-raw.api.x.ai
 us-west-1.api.x.ai
 vbrowser.hades-api.grok-sandbox.com
+vendor.hades-api.grok-sandbox.com
 vidgen.x.ai
 webhooks.hooks.x.ai
 www.grok.com
