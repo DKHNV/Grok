@@ -5,7 +5,6 @@ hades-atla-cpu01-staging.api.onprem.grok-sandbox.com
 hades-memy-cpu01-x86-staging.api.onprem.grok-sandbox.com
 max-raw.api.x.ai
 memy-cpu01-x86-staging.hades-api.grok-sandbox.com
-status-v2.x.ai
 typeahead.grok-v2.x.ai
 typeahead.grok.com
 us-east-4-cm.api.x.ai

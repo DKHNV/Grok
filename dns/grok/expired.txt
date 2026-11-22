@@ -25,5 +25,6 @@ memy.hades-api.grok-sandbox.com
 research-models-cm.api.x.ai
 research-vendors-cm.api.x.ai
 staging-cm-api.x.ai
+status-v2.x.ai
 us-east-4-comfyui-raw.api.x.ai
 yihao.hades-api.grok-sandbox.com
