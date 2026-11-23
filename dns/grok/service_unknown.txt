@@ -1,4 +1,2 @@
-ebecker.hades-api.grok-sandbox.com
-hades-ebecker.api.gcp.grok-sandbox.com
 hades-vendor.api.gcp.grok-sandbox.com
 vendor.hades-api.grok-sandbox.com
