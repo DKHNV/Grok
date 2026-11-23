@@ -8,10 +8,12 @@ add list=grok address=23.227.38.0/24 comment=grok
 add list=grok address=34.16.250.0/24 comment=grok
 add list=grok address=34.21.58.0/24 comment=grok
 add list=grok address=34.23.245.0/24 comment=grok
+add list=grok address=34.46.244.0/24 comment=grok
 add list=grok address=34.48.4.0/24 comment=grok
 add list=grok address=34.48.102.0/24 comment=grok
 add list=grok address=34.48.178.0/24 comment=grok
 add list=grok address=34.67.185.0/24 comment=grok
+add list=grok address=34.67.206.0/24 comment=grok
 add list=grok address=34.86.77.0/24 comment=grok
 add list=grok address=34.86.181.0/24 comment=grok
 add list=grok address=34.86.225.0/24 comment=grok
