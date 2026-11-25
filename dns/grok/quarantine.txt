@@ -1,6 +1,5 @@
 atla-cpu01-intel.hades-api.grok-sandbox.com
 atla-cpu01-staging.hades-api.grok-sandbox.com
-cloud9-cm.api.x.ai
 cred.grok.com
 hades-atla-cpu01-intel.api.onprem.grok-sandbox.com
 hades-atla-cpu01-staging.api.onprem.grok-sandbox.com
