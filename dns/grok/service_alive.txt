@@ -28,6 +28,7 @@ links.email.x.ai
 livekit-enterprise.grok.com
 livekit.grok.com
 mcp-sandbox.grokusercontent.com
+merchants.x.ai
 partnerportal.x.ai
 portal.merchants.x.ai
 shop.x.ai
