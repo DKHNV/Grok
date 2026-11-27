@@ -1,3 +1,4 @@
+ebecker.hades-api.grok-sandbox.com
 fvugwdk3.email.grok.com
 gix.hades-api.grok-sandbox.com
 grok-chat.hades-api.grok-sandbox.com
@@ -5,6 +6,7 @@ grok-code-wild.hades-api.grok-sandbox.com
 grok-code-xai.hades-api.grok-sandbox.com
 grok-computer-wild.hades-api.grok-sandbox.com
 grok-computer-xai.hades-api.grok-sandbox.com
+hades-ebecker.api.gcp.grok-sandbox.com
 hades-gix.api.gcp.grok-sandbox.com
 hades-grok-chat.api.gcp.grok-sandbox.com
 hades-grok-code-wild.api.gcp.grok-sandbox.com
